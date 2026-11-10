@@ -1,0 +1,452 @@
+[
+  {
+    "id": "cus-001",
+    "name": "Olivia Bennett",
+    "email": "olivia.bennett@example.com",
+    "company": "Northstar Studio",
+    "regionId": "reg-asia-pacific",
+    "createdAt": "2025-06-05",
+    "segment": "vip"
+  },
+  {
+    "id": "cus-002",
+    "name": "Noah Reed",
+    "email": "noah.reed@example.com",
+    "company": "Cedar & Co.",
+    "regionId": "reg-uk-ireland",
+    "createdAt": "2025-07-29",
+    "segment": "new"
+  },
+  {
+    "id": "cus-003",
+    "name": "Mia Turner",
+    "email": "mia.turner@example.com",
+    "company": "Brightpath Labs",
+    "regionId": "reg-asia-pacific",
+    "createdAt": "2025-11-24",
+    "segment": "new"
+  },
+  {
+    "id": "cus-004",
+    "name": "Liam Brooks",
+    "email": "liam.brooks@example.com",
+    "company": "Fieldwork Group",
+    "regionId": "reg-north-america",
+    "createdAt": "2025-04-13",
+    "segment": "returning"
+  },
+  {
+    "id": "cus-005",
+    "name": "Emma Hayes",
+    "email": "emma.hayes@example.com",
+    "company": "Morrow Supply",
+    "regionId": "reg-western-europe",
+    "createdAt": "2025-05-10",
+    "segment": "new"
+  },
+  {
+    "id": "cus-006",
+    "name": "Oliver Parker",
+    "email": "oliver.parker@example.com",
+    "company": "Clearline Health",
+    "regionId": "reg-uk-ireland",
+    "createdAt": "2025-10-08",
+    "segment": "new"
+  },
+  {
+    "id": "cus-007",
+    "name": "Amelia Foster",
+    "email": "amelia.foster@example.com",
+    "company": "Juniper Works",
+    "regionId": "reg-central-europe",
+    "createdAt": "2025-07-03",
+    "segment": "returning"
+  },
+  {
+    "id": "cus-008",
+    "name": "Lucas Morgan",
+    "email": "lucas.morgan@example.com",
+    "company": "Goodwell Market",
+    "regionId": "reg-central-europe",
+    "createdAt": "2026-10-19",
+    "segment": "new"
+  },
+  {
+    "id": "cus-009",
+    "name": "Sofia Kowalski",
+    "email": "sofia.kowalski@example.com",
+    "company": "Forma Collective",
+    "regionId": "reg-central-europe",
+    "createdAt": "2026-05-26",
+    "segment": "new"
+  },
+  {
+    "id": "cus-010",
+    "name": "Ethan Nowak",
+    "email": "ethan.nowak@example.com",
+    "company": "Arcwell Systems",
+    "regionId": "reg-western-europe",
+    "createdAt": "2026-06-06",
+    "segment": "returning"
+  },
+  {
+    "id": "cus-011",
+    "name": "Ava Zielinski",
+    "email": "ava.zielinski@example.com",
+    "company": "Northstar Studio",
+    "regionId": "reg-north-america",
+    "createdAt": "2025-08-01",
+    "segment": "new"
+  },
+  {
+    "id": "cus-012",
+    "name": "Leo Wojcik",
+    "email": "leo.wojcik@example.com",
+    "company": "Cedar & Co.",
+    "regionId": "reg-uk-ireland",
+    "createdAt": "2024-12-17",
+    "segment": "vip"
+  },
+  {
+    "id": "cus-013",
+    "name": "Isabella Miller",
+    "email": "isabella.miller@example.com",
+    "company": "Brightpath Labs",
+    "regionId": "reg-central-europe",
+    "createdAt": "2025-02-23",
+    "segment": "returning"
+  },
+  {
+    "id": "cus-014",
+    "name": "Mason Wilson",
+    "email": "mason.wilson@example.com",
+    "company": "Fieldwork Group",
+    "regionId": "reg-uk-ireland",
+    "createdAt": "2026-11-04",
+    "segment": "new"
+  },
+  {
+    "id": "cus-015",
+    "name": "Freya Carter",
+    "email": "freya.carter@example.com",
+    "company": "Morrow Supply",
+    "regionId": "reg-central-europe",
+    "createdAt": "2025-12-16",
+    "segment": "new"
+  },
+  {
+    "id": "cus-016",
+    "name": "Henry Murphy",
+    "email": "henry.murphy@example.com",
+    "company": "Clearline Health",
+    "regionId": "reg-asia-pacific",
+    "createdAt": "2026-01-14",
+    "segment": "returning"
+  },
+  {
+    "id": "cus-017",
+    "name": "Zofia Schmidt",
+    "email": "zofia.schmidt@example.com",
+    "company": "Juniper Works",
+    "regionId": "reg-western-europe",
+    "createdAt": "2025-11-04",
+    "segment": "new"
+  },
+  {
+    "id": "cus-018",
+    "name": "Jan Weber",
+    "email": "jan.weber@example.com",
+    "company": "Goodwell Market",
+    "regionId": "reg-asia-pacific",
+    "createdAt": "2026-03-24",
+    "segment": "new"
+  },
+  {
+    "id": "cus-019",
+    "name": "Klara Fischer",
+    "email": "klara.fischer@example.com",
+    "company": "Forma Collective",
+    "regionId": "reg-asia-pacific",
+    "createdAt": "2025-12-28",
+    "segment": "returning"
+  },
+  {
+    "id": "cus-020",
+    "name": "Marek Dubois",
+    "email": "marek.dubois@example.com",
+    "company": "Arcwell Systems",
+    "regionId": "reg-uk-ireland",
+    "createdAt": "2026-06-23",
+    "segment": "new"
+  },
+  {
+    "id": "cus-021",
+    "name": "Julia Laurent",
+    "email": "julia.laurent@example.com",
+    "company": "Northstar Studio",
+    "regionId": "reg-asia-pacific",
+    "createdAt": "2025-02-26",
+    "segment": "new"
+  },
+  {
+    "id": "cus-022",
+    "name": "Antoni Rossi",
+    "email": "antoni.rossi@example.com",
+    "company": "Cedar & Co.",
+    "regionId": "reg-central-europe",
+    "createdAt": "2026-08-20",
+    "segment": "returning"
+  },
+  {
+    "id": "cus-023",
+    "name": "Nina Bianchi",
+    "email": "nina.bianchi@example.com",
+    "company": "Brightpath Labs",
+    "regionId": "reg-central-europe",
+    "createdAt": "2026-04-03",
+    "segment": "vip"
+  },
+  {
+    "id": "cus-024",
+    "name": "Felix Silva",
+    "email": "felix.silva@example.com",
+    "company": "Fieldwork Group",
+    "regionId": "reg-central-europe",
+    "createdAt": "2025-05-28",
+    "segment": "new"
+  },
+  {
+    "id": "cus-025",
+    "name": "Lena Santos",
+    "email": "lena.santos@example.com",
+    "company": "Morrow Supply",
+    "regionId": "reg-north-america",
+    "createdAt": "2026-01-04",
+    "segment": "returning"
+  },
+  {
+    "id": "cus-026",
+    "name": "Oskar Taylor",
+    "email": "oskar.taylor@example.com",
+    "company": "Clearline Health",
+    "regionId": "reg-north-america",
+    "createdAt": "2025-03-22",
+    "segment": "new"
+  },
+  {
+    "id": "cus-027",
+    "name": "Hanna Cooper",
+    "email": "hanna.cooper@example.com",
+    "company": "Juniper Works",
+    "regionId": "reg-central-europe",
+    "createdAt": "2025-04-12",
+    "segment": "new"
+  },
+  {
+    "id": "cus-028",
+    "name": "Jakub Ward",
+    "email": "jakub.ward@example.com",
+    "company": "Goodwell Market",
+    "regionId": "reg-western-europe",
+    "createdAt": "2026-05-05",
+    "segment": "returning"
+  },
+  {
+    "id": "cus-029",
+    "name": "Maja Evans",
+    "email": "maja.evans@example.com",
+    "company": "Forma Collective",
+    "regionId": "reg-asia-pacific",
+    "createdAt": "2025-12-02",
+    "segment": "new"
+  },
+  {
+    "id": "cus-030",
+    "name": "Tomasz Baker",
+    "email": "tomasz.baker@example.com",
+    "company": "Arcwell Systems",
+    "regionId": "reg-western-europe",
+    "createdAt": "2026-04-30",
+    "segment": "new"
+  },
+  {
+    "id": "cus-031",
+    "name": "Ella Szymanski",
+    "email": "ella.szymanski@example.com",
+    "company": "Northstar Studio",
+    "regionId": "reg-north-america",
+    "createdAt": "2025-10-08",
+    "segment": "returning"
+  },
+  {
+    "id": "cus-032",
+    "name": "Theo Lewandowski",
+    "email": "theo.lewandowski@example.com",
+    "company": "Cedar & Co.",
+    "regionId": "reg-uk-ireland",
+    "createdAt": "2026-03-11",
+    "segment": "new"
+  },
+  {
+    "id": "cus-033",
+    "name": "Ada Kaminski",
+    "email": "ada.kaminski@example.com",
+    "company": "Brightpath Labs",
+    "regionId": "reg-central-europe",
+    "createdAt": "2025-01-09",
+    "segment": "new"
+  },
+  {
+    "id": "cus-034",
+    "name": "Mikolaj Davis",
+    "email": "mikolaj.davis@example.com",
+    "company": "Fieldwork Group",
+    "regionId": "reg-north-america",
+    "createdAt": "2025-08-03",
+    "segment": "vip"
+  },
+  {
+    "id": "cus-035",
+    "name": "Iga Clark",
+    "email": "iga.clark@example.com",
+    "company": "Morrow Supply",
+    "regionId": "reg-asia-pacific",
+    "createdAt": "2026-02-27",
+    "segment": "new"
+  },
+  {
+    "id": "cus-036",
+    "name": "Filip Hill",
+    "email": "filip.hill@example.com",
+    "company": "Clearline Health",
+    "regionId": "reg-western-europe",
+    "createdAt": "2025-08-04",
+    "segment": "new"
+  },
+  {
+    "id": "cus-037",
+    "name": "Sara Young",
+    "email": "sara.young@example.com",
+    "company": "Juniper Works",
+    "regionId": "reg-north-america",
+    "createdAt": "2026-10-18",
+    "segment": "returning"
+  },
+  {
+    "id": "cus-038",
+    "name": "Max King",
+    "email": "max.king@example.com",
+    "company": "Goodwell Market",
+    "regionId": "reg-asia-pacific",
+    "createdAt": "2025-04-14",
+    "segment": "new"
+  },
+  {
+    "id": "cus-039",
+    "name": "Lea Wright",
+    "email": "lea.wright@example.com",
+    "company": "Forma Collective",
+    "regionId": "reg-north-america",
+    "createdAt": "2025-08-19",
+    "segment": "new"
+  },
+  {
+    "id": "cus-040",
+    "name": "Pawel Scott",
+    "email": "pawel.scott@example.com",
+    "company": "Arcwell Systems",
+    "regionId": "reg-central-europe",
+    "createdAt": "2025-11-13",
+    "segment": "returning"
+  },
+  {
+    "id": "cus-041",
+    "name": "Chloe Green",
+    "email": "chloe.green@example.com",
+    "company": "Northstar Studio",
+    "regionId": "reg-western-europe",
+    "createdAt": "2026-01-11",
+    "segment": "new"
+  },
+  {
+    "id": "cus-042",
+    "name": "Oscar Adams",
+    "email": "oscar.adams@example.com",
+    "company": "Cedar & Co.",
+    "regionId": "reg-asia-pacific",
+    "createdAt": "2025-11-13",
+    "segment": "new"
+  },
+  {
+    "id": "cus-043",
+    "name": "Emilia Nelson",
+    "email": "emilia.nelson@example.com",
+    "company": "Brightpath Labs",
+    "regionId": "reg-central-europe",
+    "createdAt": "2026-01-29",
+    "segment": "returning"
+  },
+  {
+    "id": "cus-044",
+    "name": "David Mitchell",
+    "email": "david.mitchell@example.com",
+    "company": "Fieldwork Group",
+    "regionId": "reg-asia-pacific",
+    "createdAt": "2025-03-16",
+    "segment": "new"
+  },
+  {
+    "id": "cus-045",
+    "name": "Ania Roberts",
+    "email": "ania.roberts@example.com",
+    "company": "Morrow Supply",
+    "regionId": "reg-north-america",
+    "createdAt": "2025-11-14",
+    "segment": "vip"
+  },
+  {
+    "id": "cus-046",
+    "name": "Elliot Phillips",
+    "email": "elliot.phillips@example.com",
+    "company": "Clearline Health",
+    "regionId": "reg-western-europe",
+    "createdAt": "2026-07-28",
+    "segment": "returning"
+  },
+  {
+    "id": "cus-047",
+    "name": "Lily Campbell",
+    "email": "lily.campbell@example.com",
+    "company": "Juniper Works",
+    "regionId": "reg-north-america",
+    "createdAt": "2026-05-22",
+    "segment": "new"
+  },
+  {
+    "id": "cus-048",
+    "name": "Kacper Perry",
+    "email": "kacper.perry@example.com",
+    "company": "Goodwell Market",
+    "regionId": "reg-asia-pacific",
+    "createdAt": "2026-09-03",
+    "segment": "new"
+  },
+  {
+    "id": "cus-049",
+    "name": "Mila Watson",
+    "email": "mila.watson@example.com",
+    "company": "Forma Collective",
+    "regionId": "reg-western-europe",
+    "createdAt": "2025-08-25",
+    "segment": "returning"
+  },
+  {
+    "id": "cus-050",
+    "name": "Alexander Wood",
+    "email": "alexander.wood@example.com",
+    "company": "Arcwell Systems",
+    "regionId": "reg-central-europe",
+    "createdAt": "2024-12-26",
+    "segment": "new"
+  }
+]

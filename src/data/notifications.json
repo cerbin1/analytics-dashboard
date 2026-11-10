@@ -1,0 +1,30 @@
+[
+  {
+    "id": "ntf-01",
+    "type": "success",
+    "title": "Monthly target reached",
+    "body": "Revenue is 104% of your monthly target.",
+    "createdAt": "2026-11-10T09:30:00Z"
+  },
+  {
+    "id": "ntf-02",
+    "type": "transaction",
+    "title": "New transaction recorded",
+    "body": "A new payment of $249.00 was completed.",
+    "createdAt": "2026-11-10T08:12:00Z"
+  },
+  {
+    "id": "ntf-03",
+    "type": "warning",
+    "title": "Refund processed",
+    "body": "A recent order was refunded and removed from net revenue.",
+    "createdAt": "2026-11-09T15:45:00Z"
+  },
+  {
+    "id": "ntf-04",
+    "type": "insight",
+    "title": "Revenue is trending up",
+    "body": "Revenue increased compared with the previous period.",
+    "createdAt": "2026-11-08T12:00:00Z"
+  }
+]

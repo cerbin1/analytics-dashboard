@@ -1,0 +1,27 @@
+[
+  {
+    "id": "reg-north-america",
+    "name": "North America",
+    "countryCode": "US"
+  },
+  {
+    "id": "reg-western-europe",
+    "name": "Western Europe",
+    "countryCode": "DE"
+  },
+  {
+    "id": "reg-central-europe",
+    "name": "Central Europe",
+    "countryCode": "PL"
+  },
+  {
+    "id": "reg-asia-pacific",
+    "name": "Asia Pacific",
+    "countryCode": "SG"
+  },
+  {
+    "id": "reg-uk-ireland",
+    "name": "UK & Ireland",
+    "countryCode": "GB"
+  }
+]

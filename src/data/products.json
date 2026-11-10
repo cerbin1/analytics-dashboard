@@ -1,0 +1,86 @@
+[
+  {
+    "id": "prd-01",
+    "name": "Growth plan",
+    "categoryId": "cat-software",
+    "unitPriceCents": 12900
+  },
+  {
+    "id": "prd-02",
+    "name": "Scale plan",
+    "categoryId": "cat-consulting",
+    "unitPriceCents": 24900
+  },
+  {
+    "id": "prd-03",
+    "name": "Analytics Pro",
+    "categoryId": "cat-hardware",
+    "unitPriceCents": 8900
+  },
+  {
+    "id": "prd-04",
+    "name": "Team workspace",
+    "categoryId": "cat-training",
+    "unitPriceCents": 15900
+  },
+  {
+    "id": "prd-05",
+    "name": "Data migration",
+    "categoryId": "cat-support",
+    "unitPriceCents": 79900
+  },
+  {
+    "id": "prd-06",
+    "name": "Strategy session",
+    "categoryId": "cat-software",
+    "unitPriceCents": 45000
+  },
+  {
+    "id": "prd-07",
+    "name": "Hardware kit",
+    "categoryId": "cat-consulting",
+    "unitPriceCents": 21900
+  },
+  {
+    "id": "prd-08",
+    "name": "Reporting setup",
+    "categoryId": "cat-hardware",
+    "unitPriceCents": 34900
+  },
+  {
+    "id": "prd-09",
+    "name": "Team training",
+    "categoryId": "cat-training",
+    "unitPriceCents": 59900
+  },
+  {
+    "id": "prd-10",
+    "name": "Priority support",
+    "categoryId": "cat-support",
+    "unitPriceCents": 9900
+  },
+  {
+    "id": "prd-11",
+    "name": "Executive insights",
+    "categoryId": "cat-software",
+    "unitPriceCents": 129000
+  },
+  {
+    "id": "prd-12",
+    "name": "Customer portal",
+    "categoryId": "cat-consulting",
+    "unitPriceCents": 18900
+  },
+  {
+    "id": "prd-13",
+    "name": "Quarterly review",
+    "categoryId": "cat-hardware",
+    "unitPriceCents": 24900
+  },
+  {
+    "id": "prd-14",
+    "name": "Integration package",
+    "categoryId": "cat-training",
+    "unitPriceCents": 49900
+  }
+]

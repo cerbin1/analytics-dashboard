@@ -1,0 +1,4007 @@
+[
+  {
+    "date": "2024-09-01",
+    "sessions": 155,
+    "convertedSessions": 16
+  },
+  {
+    "date": "2024-09-02",
+    "sessions": 217,
+    "convertedSessions": 18
+  },
+  {
+    "date": "2024-09-03",
+    "sessions": 166,
+    "convertedSessions": 6
+  },
+  {
+    "date": "2024-09-04",
+    "sessions": 190,
+    "convertedSessions": 10
+  },
+  {
+    "date": "2024-09-05",
+    "sessions": 120,
+    "convertedSessions": 5
+  },
+  {
+    "date": "2024-09-06",
+    "sessions": 256,
+    "convertedSessions": 18
+  },
+  {
+    "date": "2024-09-07",
+    "sessions": 166,
+    "convertedSessions": 21
+  },
+  {
+    "date": "2024-09-08",
+    "sessions": 98,
+    "convertedSessions": 9
+  },
+  {
+    "date": "2024-09-09",
+    "sessions": 175,
+    "convertedSessions": 12
+  },
+  {
+    "date": "2024-09-10",
+    "sessions": 134,
+    "convertedSessions": 17
+  },
+  {
+    "date": "2024-09-11",
+    "sessions": 255,
+    "convertedSessions": 14
+  },
+  {
+    "date": "2024-09-12",
+    "sessions": 225,
+    "convertedSessions": 11
+  },
+  {
+    "date": "2024-09-13",
+    "sessions": 189,
+    "convertedSessions": 9
+  },
+  {
+    "date": "2024-09-14",
+    "sessions": 189,
+    "convertedSessions": 12
+  },
+  {
+    "date": "2024-09-15",
+    "sessions": 185,
+    "convertedSessions": 3
+  },
+  {
+    "date": "2024-09-16",
+    "sessions": 260,
+    "convertedSessions": 10
+  },
+  {
+    "date": "2024-09-17",
+    "sessions": 168,
+    "convertedSessions": 3
+  },
+  {
+    "date": "2024-09-18",
+    "sessions": 91,
+    "convertedSessions": 9
+  },
+  {
+    "date": "2024-09-19",
+    "sessions": 151,
+    "convertedSessions": 16
+  },
+  {
+    "date": "2024-09-20",
+    "sessions": 182,
+    "convertedSessions": 20
+  },
+  {
+    "date": "2024-09-21",
+    "sessions": 95,
+    "convertedSessions": 21
+  },
+  {
+    "date": "2024-09-22",
+    "sessions": 238,
+    "convertedSessions": 14
+  },
+  {
+    "date": "2024-09-23",
+    "sessions": 181,
+    "convertedSessions": 21
+  },
+  {
+    "date": "2024-09-24",
+    "sessions": 127,
+    "convertedSessions": 12
+  },
+  {
+    "date": "2024-09-25",
+    "sessions": 211,
+    "convertedSessions": 21
+  },
+  {
+    "date": "2024-09-26",
+    "sessions": 185,
+    "convertedSessions": 4
+  },
+  {
+    "date": "2024-09-27",
+    "sessions": 112,
+    "convertedSessions": 19
+  },
+  {
+    "date": "2024-09-28",
+    "sessions": 254,
+    "convertedSessions": 5
+  },
+  {
+    "date": "2024-09-29",
+    "sessions": 120,
+    "convertedSessions": 3
+  },
+  {
+    "date": "2024-09-30",
+    "sessions": 248,
+    "convertedSessions": 20
+  },
+  {
+    "date": "2024-10-01",
+    "sessions": 145,
+    "convertedSessions": 5
+  },
+  {
+    "date": "2024-10-02",
+    "sessions": 215,
+    "convertedSessions": 14
+  },
+  {
+    "date": "2024-10-03",
+    "sessions": 92,
+    "convertedSessions": 18
+  },
+  {
+    "date": "2024-10-04",
+    "sessions": 253,
+    "convertedSessions": 11
+  },
+  {
+    "date": "2024-10-05",
+    "sessions": 139,
+    "convertedSessions": 18
+  },
+  {
+    "date": "2024-10-06",
+    "sessions": 165,
+    "convertedSessions": 7
+  },
+  {
+    "date": "2024-10-07",
+    "sessions": 192,
+    "convertedSessions": 8
+  },
+  {
+    "date": "2024-10-08",
+    "sessions": 249,
+    "convertedSessions": 8
+  },
+  {
+    "date": "2024-10-09",
+    "sessions": 207,
+    "convertedSessions": 19
+  },
+  {
+    "date": "2024-10-10",
+    "sessions": 220,
+    "convertedSessions": 6
+  },
+  {
+    "date": "2024-10-11",
+    "sessions": 176,
+    "convertedSessions": 12
+  },
+  {
+    "date": "2024-10-12",
+    "sessions": 94,
+    "convertedSessions": 20
+  },
+  {
+    "date": "2024-10-13",
+    "sessions": 257,
+    "convertedSessions": 13
+  },
+  {
+    "date": "2024-10-14",
+    "sessions": 187,
+    "convertedSessions": 5
+  },
+  {
+    "date": "2024-10-15",
+    "sessions": 147,
+    "convertedSessions": 5
+  },
+  {
+    "date": "2024-10-16",
+    "sessions": 187,
+    "convertedSessions": 16
+  },
+  {
+    "date": "2024-10-17",
+    "sessions": 183,
+    "convertedSessions": 18
+  },
+  {
+    "date": "2024-10-18",
+    "sessions": 157,
+    "convertedSessions": 21
+  },
+  {
+    "date": "2024-10-19",
+    "sessions": 123,
+    "convertedSessions": 12
+  },
+  {
+    "date": "2024-10-20",
+    "sessions": 104,
+    "convertedSessions": 18
+  },
+  {
+    "date": "2024-10-21",
+    "sessions": 138,
+    "convertedSessions": 17
+  },
+  {
+    "date": "2024-10-22",
+    "sessions": 226,
+    "convertedSessions": 9
+  },
+  {
+    "date": "2024-10-23",
+    "sessions": 240,
+    "convertedSessions": 10
+  },
+  {
+    "date": "2024-10-24",
+    "sessions": 175,
+    "convertedSessions": 12
+  },
+  {
+    "date": "2024-10-25",
+    "sessions": 137,
+    "convertedSessions": 6
+  },
+  {
+    "date": "2024-10-26",
+    "sessions": 235,
+    "convertedSessions": 21
+  },
+  {
+    "date": "2024-10-27",
+    "sessions": 202,
+    "convertedSessions": 20
+  },
+  {
+    "date": "2024-10-28",
+    "sessions": 111,
+    "convertedSessions": 20
+  },
+  {
+    "date": "2024-10-29",
+    "sessions": 98,
+    "convertedSessions": 11
+  },
+  {
+    "date": "2024-10-30",
+    "sessions": 180,
+    "convertedSessions": 19
+  },
+  {
+    "date": "2024-10-31",
+    "sessions": 197,
+    "convertedSessions": 10
+  },
+  {
+    "date": "2024-11-01",
+    "sessions": 124,
+    "convertedSessions": 18
+  },
+  {
+    "date": "2024-11-02",
+    "sessions": 96,
+    "convertedSessions": 15
+  },
+  {
+    "date": "2024-11-03",
+    "sessions": 198,
+    "convertedSessions": 21
+  },
+  {
+    "date": "2024-11-04",
+    "sessions": 165,
+    "convertedSessions": 10
+  },
+  {
+    "date": "2024-11-05",
+    "sessions": 101,
+    "convertedSessions": 16
+  },
+  {
+    "date": "2024-11-06",
+    "sessions": 219,
+    "convertedSessions": 18
+  },
+  {
+    "date": "2024-11-07",
+    "sessions": 251,
+    "convertedSessions": 18
+  },
+  {
+    "date": "2024-11-08",
+    "sessions": 176,
+    "convertedSessions": 12
+  },
+  {
+    "date": "2024-11-09",
+    "sessions": 239,
+    "convertedSessions": 7
+  },
+  {
+    "date": "2024-11-10",
+    "sessions": 164,
+    "convertedSessions": 5
+  },
+  {
+    "date": "2024-11-11",
+    "sessions": 242,
+    "convertedSessions": 19
+  },
+  {
+    "date": "2024-11-12",
+    "sessions": 148,
+    "convertedSessions": 14
+  },
+  {
+    "date": "2024-11-13",
+    "sessions": 238,
+    "convertedSessions": 18
+  },
+  {
+    "date": "2024-11-14",
+    "sessions": 107,
+    "convertedSessions": 10
+  },
+  {
+    "date": "2024-11-15",
+    "sessions": 229,
+    "convertedSessions": 4
+  },
+  {
+    "date": "2024-11-16",
+    "sessions": 104,
+    "convertedSessions": 10
+  },
+  {
+    "date": "2024-11-17",
+    "sessions": 147,
+    "convertedSessions": 4
+  },
+  {
+    "date": "2024-11-18",
+    "sessions": 171,
+    "convertedSessions": 15
+  },
+  {
+    "date": "2024-11-19",
+    "sessions": 150,
+    "convertedSessions": 16
+  },
+  {
+    "date": "2024-11-20",
+    "sessions": 145,
+    "convertedSessions": 21
+  },
+  {
+    "date": "2024-11-21",
+    "sessions": 140,
+    "convertedSessions": 12
+  },
+  {
+    "date": "2024-11-22",
+    "sessions": 112,
+    "convertedSessions": 7
+  },
+  {
+    "date": "2024-11-23",
+    "sessions": 165,
+    "convertedSessions": 6
+  },
+  {
+    "date": "2024-11-24",
+    "sessions": 226,
+    "convertedSessions": 8
+  },
+  {
+    "date": "2024-11-25",
+    "sessions": 99,
+    "convertedSessions": 6
+  },
+  {
+    "date": "2024-11-26",
+    "sessions": 191,
+    "convertedSessions": 13
+  },
+  {
+    "date": "2024-11-27",
+    "sessions": 111,
+    "convertedSessions": 20
+  },
+  {
+    "date": "2024-11-28",
+    "sessions": 189,
+    "convertedSessions": 20
+  },
+  {
+    "date": "2024-11-29",
+    "sessions": 107,
+    "convertedSessions": 4
+  },
+  {
+    "date": "2024-11-30",
+    "sessions": 208,
+    "convertedSessions": 3
+  },
+  {
+    "date": "2024-12-01",
+    "sessions": 102,
+    "convertedSessions": 6
+  },
+  {
+    "date": "2024-12-02",
+    "sessions": 214,
+    "convertedSessions": 19
+  },
+  {
+    "date": "2024-12-03",
+    "sessions": 232,
+    "convertedSessions": 18
+  },
+  {
+    "date": "2024-12-04",
+    "sessions": 168,
+    "convertedSessions": 7
+  },
+  {
+    "date": "2024-12-05",
+    "sessions": 221,
+    "convertedSessions": 19
+  },
+  {
+    "date": "2024-12-06",
+    "sessions": 234,
+    "convertedSessions": 14
+  },
+  {
+    "date": "2024-12-07",
+    "sessions": 239,
+    "convertedSessions": 3
+  },
+  {
+    "date": "2024-12-08",
+    "sessions": 92,
+    "convertedSessions": 20
+  },
+  {
+    "date": "2024-12-09",
+    "sessions": 253,
+    "convertedSessions": 7
+  },
+  {
+    "date": "2024-12-10",
+    "sessions": 123,
+    "convertedSessions": 15
+  },
+  {
+    "date": "2024-12-11",
+    "sessions": 235,
+    "convertedSessions": 20
+  },
+  {
+    "date": "2024-12-12",
+    "sessions": 223,
+    "convertedSessions": 20
+  },
+  {
+    "date": "2024-12-13",
+    "sessions": 177,
+    "convertedSessions": 19
+  },
+  {
+    "date": "2024-12-14",
+    "sessions": 206,
+    "convertedSessions": 3
+  },
+  {
+    "date": "2024-12-15",
+    "sessions": 172,
+    "convertedSessions": 12
+  },
+  {
+    "date": "2024-12-16",
+    "sessions": 244,
+    "convertedSessions": 7
+  },
+  {
+    "date": "2024-12-17",
+    "sessions": 127,
+    "convertedSessions": 10
+  },
+  {
+    "date": "2024-12-18",
+    "sessions": 234,
+    "convertedSessions": 5
+  },
+  {
+    "date": "2024-12-19",
+    "sessions": 149,
+    "convertedSessions": 21
+  },
+  {
+    "date": "2024-12-20",
+    "sessions": 100,
+    "convertedSessions": 8
+  },
+  {
+    "date": "2024-12-21",
+    "sessions": 118,
+    "convertedSessions": 18
+  },
+  {
+    "date": "2024-12-22",
+    "sessions": 248,
+    "convertedSessions": 5
+  },
+  {
+    "date": "2024-12-23",
+    "sessions": 90,
+    "convertedSessions": 11
+  },
+  {
+    "date": "2024-12-24",
+    "sessions": 144,
+    "convertedSessions": 8
+  },
+  {
+    "date": "2024-12-25",
+    "sessions": 160,
+    "convertedSessions": 18
+  },
+  {
+    "date": "2024-12-26",
+    "sessions": 241,
+    "convertedSessions": 13
+  },
+  {
+    "date": "2024-12-27",
+    "sessions": 239,
+    "convertedSessions": 3
+  },
+  {
+    "date": "2024-12-28",
+    "sessions": 197,
+    "convertedSessions": 10
+  },
+  {
+    "date": "2024-12-29",
+    "sessions": 107,
+    "convertedSessions": 18
+  },
+  {
+    "date": "2024-12-30",
+    "sessions": 156,
+    "convertedSessions": 19
+  },
+  {
+    "date": "2024-12-31",
+    "sessions": 103,
+    "convertedSessions": 21
+  },
+  {
+    "date": "2025-01-01",
+    "sessions": 164,
+    "convertedSessions": 16
+  },
+  {
+    "date": "2025-01-02",
+    "sessions": 126,
+    "convertedSessions": 16
+  },
+  {
+    "date": "2025-01-03",
+    "sessions": 216,
+    "convertedSessions": 17
+  },
+  {
+    "date": "2025-01-04",
+    "sessions": 246,
+    "convertedSessions": 10
+  },
+  {
+    "date": "2025-01-05",
+    "sessions": 198,
+    "convertedSessions": 6
+  },
+  {
+    "date": "2025-01-06",
+    "sessions": 92,
+    "convertedSessions": 9
+  },
+  {
+    "date": "2025-01-07",
+    "sessions": 150,
+    "convertedSessions": 19
+  },
+  {
+    "date": "2025-01-08",
+    "sessions": 113,
+    "convertedSessions": 19
+  },
+  {
+    "date": "2025-01-09",
+    "sessions": 198,
+    "convertedSessions": 9
+  },
+  {
+    "date": "2025-01-10",
+    "sessions": 187,
+    "convertedSessions": 14
+  },
+  {
+    "date": "2025-01-11",
+    "sessions": 230,
+    "convertedSessions": 18
+  },
+  {
+    "date": "2025-01-12",
+    "sessions": 204,
+    "convertedSessions": 13
+  },
+  {
+    "date": "2025-01-13",
+    "sessions": 201,
+    "convertedSessions": 10
+  },
+  {
+    "date": "2025-01-14",
+    "sessions": 222,
+    "convertedSessions": 5
+  },
+  {
+    "date": "2025-01-15",
+    "sessions": 229,
+    "convertedSessions": 4
+  },
+  {
+    "date": "2025-01-16",
+    "sessions": 224,
+    "convertedSessions": 15
+  },
+  {
+    "date": "2025-01-17",
+    "sessions": 247,
+    "convertedSessions": 15
+  },
+  {
+    "date": "2025-01-18",
+    "sessions": 138,
+    "convertedSessions": 14
+  },
+  {
+    "date": "2025-01-19",
+    "sessions": 225,
+    "convertedSessions": 9
+  },
+  {
+    "date": "2025-01-20",
+    "sessions": 139,
+    "convertedSessions": 3
+  },
+  {
+    "date": "2025-01-21",
+    "sessions": 245,
+    "convertedSessions": 16
+  },
+  {
+    "date": "2025-01-22",
+    "sessions": 208,
+    "convertedSessions": 10
+  },
+  {
+    "date": "2025-01-23",
+    "sessions": 206,
+    "convertedSessions": 15
+  },
+  {
+    "date": "2025-01-24",
+    "sessions": 172,
+    "convertedSessions": 18
+  },
+  {
+    "date": "2025-01-25",
+    "sessions": 251,
+    "convertedSessions": 18
+  },
+  {
+    "date": "2025-01-26",
+    "sessions": 231,
+    "convertedSessions": 9
+  },
+  {
+    "date": "2025-01-27",
+    "sessions": 222,
+    "convertedSessions": 5
+  },
+  {
+    "date": "2025-01-28",
+    "sessions": 197,
+    "convertedSessions": 20
+  },
+  {
+    "date": "2025-01-29",
+    "sessions": 254,
+    "convertedSessions": 20
+  },
+  {
+    "date": "2025-01-30",
+    "sessions": 225,
+    "convertedSessions": 11
+  },
+  {
+    "date": "2025-01-31",
+    "sessions": 203,
+    "convertedSessions": 4
+  },
+  {
+    "date": "2025-02-01",
+    "sessions": 176,
+    "convertedSessions": 18
+  },
+  {
+    "date": "2025-02-02",
+    "sessions": 172,
+    "convertedSessions": 18
+  },
+  {
+    "date": "2025-02-03",
+    "sessions": 130,
+    "convertedSessions": 5
+  },
+  {
+    "date": "2025-02-04",
+    "sessions": 126,
+    "convertedSessions": 4
+  },
+  {
+    "date": "2025-02-05",
+    "sessions": 254,
+    "convertedSessions": 6
+  },
+  {
+    "date": "2025-02-06",
+    "sessions": 232,
+    "convertedSessions": 8
+  },
+  {
+    "date": "2025-02-07",
+    "sessions": 115,
+    "convertedSessions": 11
+  },
+  {
+    "date": "2025-02-08",
+    "sessions": 255,
+    "convertedSessions": 20
+  },
+  {
+    "date": "2025-02-09",
+    "sessions": 222,
+    "convertedSessions": 20
+  },
+  {
+    "date": "2025-02-10",
+    "sessions": 259,
+    "convertedSessions": 6
+  },
+  {
+    "date": "2025-02-11",
+    "sessions": 236,
+    "convertedSessions": 7
+  },
+  {
+    "date": "2025-02-12",
+    "sessions": 192,
+    "convertedSessions": 14
+  },
+  {
+    "date": "2025-02-13",
+    "sessions": 134,
+    "convertedSessions": 15
+  },
+  {
+    "date": "2025-02-14",
+    "sessions": 257,
+    "convertedSessions": 13
+  },
+  {
+    "date": "2025-02-15",
+    "sessions": 127,
+    "convertedSessions": 20
+  },
+  {
+    "date": "2025-02-16",
+    "sessions": 221,
+    "convertedSessions": 11
+  },
+  {
+    "date": "2025-02-17",
+    "sessions": 229,
+    "convertedSessions": 16
+  },
+  {
+    "date": "2025-02-18",
+    "sessions": 257,
+    "convertedSessions": 16
+  },
+  {
+    "date": "2025-02-19",
+    "sessions": 137,
+    "convertedSessions": 9
+  },
+  {
+    "date": "2025-02-20",
+    "sessions": 237,
+    "convertedSessions": 4
+  },
+  {
+    "date": "2025-02-21",
+    "sessions": 200,
+    "convertedSessions": 14
+  },
+  {
+    "date": "2025-02-22",
+    "sessions": 146,
+    "convertedSessions": 7
+  },
+  {
+    "date": "2025-02-23",
+    "sessions": 247,
+    "convertedSessions": 3
+  },
+  {
+    "date": "2025-02-24",
+    "sessions": 168,
+    "convertedSessions": 16
+  },
+  {
+    "date": "2025-02-25",
+    "sessions": 109,
+    "convertedSessions": 21
+  },
+  {
+    "date": "2025-02-26",
+    "sessions": 139,
+    "convertedSessions": 3
+  },
+  {
+    "date": "2025-02-27",
+    "sessions": 230,
+    "convertedSessions": 17
+  },
+  {
+    "date": "2025-02-28",
+    "sessions": 177,
+    "convertedSessions": 4
+  },
+  {
+    "date": "2025-03-01",
+    "sessions": 176,
+    "convertedSessions": 17
+  },
+  {
+    "date": "2025-03-02",
+    "sessions": 148,
+    "convertedSessions": 19
+  },
+  {
+    "date": "2025-03-03",
+    "sessions": 175,
+    "convertedSessions": 16
+  },
+  {
+    "date": "2025-03-04",
+    "sessions": 156,
+    "convertedSessions": 16
+  },
+  {
+    "date": "2025-03-05",
+    "sessions": 174,
+    "convertedSessions": 6
+  },
+  {
+    "date": "2025-03-06",
+    "sessions": 257,
+    "convertedSessions": 16
+  },
+  {
+    "date": "2025-03-07",
+    "sessions": 223,
+    "convertedSessions": 6
+  },
+  {
+    "date": "2025-03-08",
+    "sessions": 147,
+    "convertedSessions": 12
+  },
+  {
+    "date": "2025-03-09",
+    "sessions": 146,
+    "convertedSessions": 4
+  },
+  {
+    "date": "2025-03-10",
+    "sessions": 146,
+    "convertedSessions": 9
+  },
+  {
+    "date": "2025-03-11",
+    "sessions": 112,
+    "convertedSessions": 14
+  },
+  {
+    "date": "2025-03-12",
+    "sessions": 146,
+    "convertedSessions": 17
+  },
+  {
+    "date": "2025-03-13",
+    "sessions": 148,
+    "convertedSessions": 15
+  },
+  {
+    "date": "2025-03-14",
+    "sessions": 252,
+    "convertedSessions": 12
+  },
+  {
+    "date": "2025-03-15",
+    "sessions": 204,
+    "convertedSessions": 8
+  },
+  {
+    "date": "2025-03-16",
+    "sessions": 197,
+    "convertedSessions": 19
+  },
+  {
+    "date": "2025-03-17",
+    "sessions": 104,
+    "convertedSessions": 19
+  },
+  {
+    "date": "2025-03-18",
+    "sessions": 226,
+    "convertedSessions": 13
+  },
+  {
+    "date": "2025-03-19",
+    "sessions": 154,
+    "convertedSessions": 13
+  },
+  {
+    "date": "2025-03-20",
+    "sessions": 220,
+    "convertedSessions": 18
+  },
+  {
+    "date": "2025-03-21",
+    "sessions": 245,
+    "convertedSessions": 11
+  },
+  {
+    "date": "2025-03-22",
+    "sessions": 146,
+    "convertedSessions": 11
+  },
+  {
+    "date": "2025-03-23",
+    "sessions": 190,
+    "convertedSessions": 13
+  },
+  {
+    "date": "2025-03-24",
+    "sessions": 247,
+    "convertedSessions": 10
+  },
+  {
+    "date": "2025-03-25",
+    "sessions": 113,
+    "convertedSessions": 12
+  },
+  {
+    "date": "2025-03-26",
+    "sessions": 180,
+    "convertedSessions": 15
+  },
+  {
+    "date": "2025-03-27",
+    "sessions": 147,
+    "convertedSessions": 6
+  },
+  {
+    "date": "2025-03-28",
+    "sessions": 97,
+    "convertedSessions": 9
+  },
+  {
+    "date": "2025-03-29",
+    "sessions": 105,
+    "convertedSessions": 3
+  },
+  {
+    "date": "2025-03-30",
+    "sessions": 142,
+    "convertedSessions": 14
+  },
+  {
+    "date": "2025-03-31",
+    "sessions": 121,
+    "convertedSessions": 6
+  },
+  {
+    "date": "2025-04-01",
+    "sessions": 170,
+    "convertedSessions": 21
+  },
+  {
+    "date": "2025-04-02",
+    "sessions": 222,
+    "convertedSessions": 15
+  },
+  {
+    "date": "2025-04-03",
+    "sessions": 198,
+    "convertedSessions": 12
+  },
+  {
+    "date": "2025-04-04",
+    "sessions": 235,
+    "convertedSessions": 12
+  },
+  {
+    "date": "2025-04-05",
+    "sessions": 225,
+    "convertedSessions": 16
+  },
+  {
+    "date": "2025-04-06",
+    "sessions": 170,
+    "convertedSessions": 16
+  },
+  {
+    "date": "2025-04-07",
+    "sessions": 148,
+    "convertedSessions": 12
+  },
+  {
+    "date": "2025-04-08",
+    "sessions": 172,
+    "convertedSessions": 11
+  },
+  {
+    "date": "2025-04-09",
+    "sessions": 123,
+    "convertedSessions": 16
+  },
+  {
+    "date": "2025-04-10",
+    "sessions": 117,
+    "convertedSessions": 19
+  },
+  {
+    "date": "2025-04-11",
+    "sessions": 198,
+    "convertedSessions": 11
+  },
+  {
+    "date": "2025-04-12",
+    "sessions": 202,
+    "convertedSessions": 11
+  },
+  {
+    "date": "2025-04-13",
+    "sessions": 219,
+    "convertedSessions": 10
+  },
+  {
+    "date": "2025-04-14",
+    "sessions": 250,
+    "convertedSessions": 6
+  },
+  {
+    "date": "2025-04-15",
+    "sessions": 177,
+    "convertedSessions": 21
+  },
+  {
+    "date": "2025-04-16",
+    "sessions": 260,
+    "convertedSessions": 20
+  },
+  {
+    "date": "2025-04-17",
+    "sessions": 149,
+    "convertedSessions": 7
+  },
+  {
+    "date": "2025-04-18",
+    "sessions": 205,
+    "convertedSessions": 21
+  },
+  {
+    "date": "2025-04-19",
+    "sessions": 104,
+    "convertedSessions": 7
+  },
+  {
+    "date": "2025-04-20",
+    "sessions": 154,
+    "convertedSessions": 11
+  },
+  {
+    "date": "2025-04-21",
+    "sessions": 222,
+    "convertedSessions": 12
+  },
+  {
+    "date": "2025-04-22",
+    "sessions": 259,
+    "convertedSessions": 15
+  },
+  {
+    "date": "2025-04-23",
+    "sessions": 195,
+    "convertedSessions": 13
+  },
+  {
+    "date": "2025-04-24",
+    "sessions": 173,
+    "convertedSessions": 17
+  },
+  {
+    "date": "2025-04-25",
+    "sessions": 91,
+    "convertedSessions": 20
+  },
+  {
+    "date": "2025-04-26",
+    "sessions": 184,
+    "convertedSessions": 11
+  },
+  {
+    "date": "2025-04-27",
+    "sessions": 110,
+    "convertedSessions": 16
+  },
+  {
+    "date": "2025-04-28",
+    "sessions": 108,
+    "convertedSessions": 5
+  },
+  {
+    "date": "2025-04-29",
+    "sessions": 171,
+    "convertedSessions": 7
+  },
+  {
+    "date": "2025-04-30",
+    "sessions": 199,
+    "convertedSessions": 19
+  },
+  {
+    "date": "2025-05-01",
+    "sessions": 165,
+    "convertedSessions": 4
+  },
+  {
+    "date": "2025-05-02",
+    "sessions": 231,
+    "convertedSessions": 8
+  },
+  {
+    "date": "2025-05-03",
+    "sessions": 114,
+    "convertedSessions": 17
+  },
+  {
+    "date": "2025-05-04",
+    "sessions": 256,
+    "convertedSessions": 18
+  },
+  {
+    "date": "2025-05-05",
+    "sessions": 129,
+    "convertedSessions": 15
+  },
+  {
+    "date": "2025-05-06",
+    "sessions": 122,
+    "convertedSessions": 9
+  },
+  {
+    "date": "2025-05-07",
+    "sessions": 188,
+    "convertedSessions": 11
+  },
+  {
+    "date": "2025-05-08",
+    "sessions": 105,
+    "convertedSessions": 13
+  },
+  {
+    "date": "2025-05-09",
+    "sessions": 109,
+    "convertedSessions": 3
+  },
+  {
+    "date": "2025-05-10",
+    "sessions": 238,
+    "convertedSessions": 11
+  },
+  {
+    "date": "2025-05-11",
+    "sessions": 227,
+    "convertedSessions": 4
+  },
+  {
+    "date": "2025-05-12",
+    "sessions": 220,
+    "convertedSessions": 12
+  },
+  {
+    "date": "2025-05-13",
+    "sessions": 239,
+    "convertedSessions": 21
+  },
+  {
+    "date": "2025-05-14",
+    "sessions": 169,
+    "convertedSessions": 20
+  },
+  {
+    "date": "2025-05-15",
+    "sessions": 221,
+    "convertedSessions": 20
+  },
+  {
+    "date": "2025-05-16",
+    "sessions": 199,
+    "convertedSessions": 13
+  },
+  {
+    "date": "2025-05-17",
+    "sessions": 164,
+    "convertedSessions": 10
+  },
+  {
+    "date": "2025-05-18",
+    "sessions": 145,
+    "convertedSessions": 21
+  },
+  {
+    "date": "2025-05-19",
+    "sessions": 145,
+    "convertedSessions": 7
+  },
+  {
+    "date": "2025-05-20",
+    "sessions": 169,
+    "convertedSessions": 14
+  },
+  {
+    "date": "2025-05-21",
+    "sessions": 229,
+    "convertedSessions": 17
+  },
+  {
+    "date": "2025-05-22",
+    "sessions": 122,
+    "convertedSessions": 11
+  },
+  {
+    "date": "2025-05-23",
+    "sessions": 132,
+    "convertedSessions": 10
+  },
+  {
+    "date": "2025-05-24",
+    "sessions": 101,
+    "convertedSessions": 18
+  },
+  {
+    "date": "2025-05-25",
+    "sessions": 155,
+    "convertedSessions": 21
+  },
+  {
+    "date": "2025-05-26",
+    "sessions": 198,
+    "convertedSessions": 4
+  },
+  {
+    "date": "2025-05-27",
+    "sessions": 169,
+    "convertedSessions": 3
+  },
+  {
+    "date": "2025-05-28",
+    "sessions": 251,
+    "convertedSessions": 5
+  },
+  {
+    "date": "2025-05-29",
+    "sessions": 160,
+    "convertedSessions": 14
+  },
+  {
+    "date": "2025-05-30",
+    "sessions": 113,
+    "convertedSessions": 9
+  },
+  {
+    "date": "2025-05-31",
+    "sessions": 240,
+    "convertedSessions": 4
+  },
+  {
+    "date": "2025-06-01",
+    "sessions": 94,
+    "convertedSessions": 11
+  },
+  {
+    "date": "2025-06-02",
+    "sessions": 233,
+    "convertedSessions": 7
+  },
+  {
+    "date": "2025-06-03",
+    "sessions": 208,
+    "convertedSessions": 9
+  },
+  {
+    "date": "2025-06-04",
+    "sessions": 135,
+    "convertedSessions": 14
+  },
+  {
+    "date": "2025-06-05",
+    "sessions": 120,
+    "convertedSessions": 11
+  },
+  {
+    "date": "2025-06-06",
+    "sessions": 175,
+    "convertedSessions": 16
+  },
+  {
+    "date": "2025-06-07",
+    "sessions": 187,
+    "convertedSessions": 17
+  },
+  {
+    "date": "2025-06-08",
+    "sessions": 180,
+    "convertedSessions": 13
+  },
+  {
+    "date": "2025-06-09",
+    "sessions": 98,
+    "convertedSessions": 7
+  },
+  {
+    "date": "2025-06-10",
+    "sessions": 123,
+    "convertedSessions": 8
+  },
+  {
+    "date": "2025-06-11",
+    "sessions": 190,
+    "convertedSessions": 16
+  },
+  {
+    "date": "2025-06-12",
+    "sessions": 226,
+    "convertedSessions": 17
+  },
+  {
+    "date": "2025-06-13",
+    "sessions": 130,
+    "convertedSessions": 3
+  },
+  {
+    "date": "2025-06-14",
+    "sessions": 133,
+    "convertedSessions": 5
+  },
+  {
+    "date": "2025-06-15",
+    "sessions": 210,
+    "convertedSessions": 10
+  },
+  {
+    "date": "2025-06-16",
+    "sessions": 166,
+    "convertedSessions": 14
+  },
+  {
+    "date": "2025-06-17",
+    "sessions": 92,
+    "convertedSessions": 17
+  },
+  {
+    "date": "2025-06-18",
+    "sessions": 103,
+    "convertedSessions": 15
+  },
+  {
+    "date": "2025-06-19",
+    "sessions": 98,
+    "convertedSessions": 15
+  },
+  {
+    "date": "2025-06-20",
+    "sessions": 237,
+    "convertedSessions": 3
+  },
+  {
+    "date": "2025-06-21",
+    "sessions": 111,
+    "convertedSessions": 13
+  },
+  {
+    "date": "2025-06-22",
+    "sessions": 215,
+    "convertedSessions": 13
+  },
+  {
+    "date": "2025-06-23",
+    "sessions": 246,
+    "convertedSessions": 11
+  },
+  {
+    "date": "2025-06-24",
+    "sessions": 110,
+    "convertedSessions": 3
+  },
+  {
+    "date": "2025-06-25",
+    "sessions": 162,
+    "convertedSessions": 11
+  },
+  {
+    "date": "2025-06-26",
+    "sessions": 133,
+    "convertedSessions": 6
+  },
+  {
+    "date": "2025-06-27",
+    "sessions": 106,
+    "convertedSessions": 10
+  },
+  {
+    "date": "2025-06-28",
+    "sessions": 176,
+    "convertedSessions": 18
+  },
+  {
+    "date": "2025-06-29",
+    "sessions": 170,
+    "convertedSessions": 7
+  },
+  {
+    "date": "2025-06-30",
+    "sessions": 123,
+    "convertedSessions": 21
+  },
+  {
+    "date": "2025-07-01",
+    "sessions": 257,
+    "convertedSessions": 20
+  },
+  {
+    "date": "2025-07-02",
+    "sessions": 240,
+    "convertedSessions": 4
+  },
+  {
+    "date": "2025-07-03",
+    "sessions": 126,
+    "convertedSessions": 3
+  },
+  {
+    "date": "2025-07-04",
+    "sessions": 123,
+    "convertedSessions": 19
+  },
+  {
+    "date": "2025-07-05",
+    "sessions": 147,
+    "convertedSessions": 16
+  },
+  {
+    "date": "2025-07-06",
+    "sessions": 219,
+    "convertedSessions": 7
+  },
+  {
+    "date": "2025-07-07",
+    "sessions": 173,
+    "convertedSessions": 16
+  },
+  {
+    "date": "2025-07-08",
+    "sessions": 226,
+    "convertedSessions": 11
+  },
+  {
+    "date": "2025-07-09",
+    "sessions": 138,
+    "convertedSessions": 7
+  },
+  {
+    "date": "2025-07-10",
+    "sessions": 98,
+    "convertedSessions": 10
+  },
+  {
+    "date": "2025-07-11",
+    "sessions": 217,
+    "convertedSessions": 16
+  },
+  {
+    "date": "2025-07-12",
+    "sessions": 243,
+    "convertedSessions": 19
+  },
+  {
+    "date": "2025-07-13",
+    "sessions": 181,
+    "convertedSessions": 14
+  },
+  {
+    "date": "2025-07-14",
+    "sessions": 227,
+    "convertedSessions": 13
+  },
+  {
+    "date": "2025-07-15",
+    "sessions": 245,
+    "convertedSessions": 16
+  },
+  {
+    "date": "2025-07-16",
+    "sessions": 158,
+    "convertedSessions": 11
+  },
+  {
+    "date": "2025-07-17",
+    "sessions": 258,
+    "convertedSessions": 13
+  },
+  {
+    "date": "2025-07-18",
+    "sessions": 136,
+    "convertedSessions": 12
+  },
+  {
+    "date": "2025-07-19",
+    "sessions": 125,
+    "convertedSessions": 17
+  },
+  {
+    "date": "2025-07-20",
+    "sessions": 184,
+    "convertedSessions": 12
+  },
+  {
+    "date": "2025-07-21",
+    "sessions": 118,
+    "convertedSessions": 10
+  },
+  {
+    "date": "2025-07-22",
+    "sessions": 134,
+    "convertedSessions": 14
+  },
+  {
+    "date": "2025-07-23",
+    "sessions": 90,
+    "convertedSessions": 19
+  },
+  {
+    "date": "2025-07-24",
+    "sessions": 187,
+    "convertedSessions": 8
+  },
+  {
+    "date": "2025-07-25",
+    "sessions": 105,
+    "convertedSessions": 14
+  },
+  {
+    "date": "2025-07-26",
+    "sessions": 205,
+    "convertedSessions": 11
+  },
+  {
+    "date": "2025-07-27",
+    "sessions": 140,
+    "convertedSessions": 6
+  },
+  {
+    "date": "2025-07-28",
+    "sessions": 204,
+    "convertedSessions": 14
+  },
+  {
+    "date": "2025-07-29",
+    "sessions": 103,
+    "convertedSessions": 11
+  },
+  {
+    "date": "2025-07-30",
+    "sessions": 109,
+    "convertedSessions": 21
+  },
+  {
+    "date": "2025-07-31",
+    "sessions": 99,
+    "convertedSessions": 4
+  },
+  {
+    "date": "2025-08-01",
+    "sessions": 148,
+    "convertedSessions": 21
+  },
+  {
+    "date": "2025-08-02",
+    "sessions": 115,
+    "convertedSessions": 11
+  },
+  {
+    "date": "2025-08-03",
+    "sessions": 128,
+    "convertedSessions": 3
+  },
+  {
+    "date": "2025-08-04",
+    "sessions": 211,
+    "convertedSessions": 5
+  },
+  {
+    "date": "2025-08-05",
+    "sessions": 151,
+    "convertedSessions": 7
+  },
+  {
+    "date": "2025-08-06",
+    "sessions": 113,
+    "convertedSessions": 9
+  },
+  {
+    "date": "2025-08-07",
+    "sessions": 250,
+    "convertedSessions": 19
+  },
+  {
+    "date": "2025-08-08",
+    "sessions": 128,
+    "convertedSessions": 18
+  },
+  {
+    "date": "2025-08-09",
+    "sessions": 179,
+    "convertedSessions": 13
+  },
+  {
+    "date": "2025-08-10",
+    "sessions": 111,
+    "convertedSessions": 7
+  },
+  {
+    "date": "2025-08-11",
+    "sessions": 187,
+    "convertedSessions": 11
+  },
+  {
+    "date": "2025-08-12",
+    "sessions": 148,
+    "convertedSessions": 10
+  },
+  {
+    "date": "2025-08-13",
+    "sessions": 253,
+    "convertedSessions": 14
+  },
+  {
+    "date": "2025-08-14",
+    "sessions": 120,
+    "convertedSessions": 9
+  },
+  {
+    "date": "2025-08-15",
+    "sessions": 183,
+    "convertedSessions": 3
+  },
+  {
+    "date": "2025-08-16",
+    "sessions": 180,
+    "convertedSessions": 8
+  },
+  {
+    "date": "2025-08-17",
+    "sessions": 200,
+    "convertedSessions": 3
+  },
+  {
+    "date": "2025-08-18",
+    "sessions": 191,
+    "convertedSessions": 14
+  },
+  {
+    "date": "2025-08-19",
+    "sessions": 94,
+    "convertedSessions": 6
+  },
+  {
+    "date": "2025-08-20",
+    "sessions": 94,
+    "convertedSessions": 19
+  },
+  {
+    "date": "2025-08-21",
+    "sessions": 148,
+    "convertedSessions": 7
+  },
+  {
+    "date": "2025-08-22",
+    "sessions": 125,
+    "convertedSessions": 9
+  },
+  {
+    "date": "2025-08-23",
+    "sessions": 143,
+    "convertedSessions": 8
+  },
+  {
+    "date": "2025-08-24",
+    "sessions": 256,
+    "convertedSessions": 21
+  },
+  {
+    "date": "2025-08-25",
+    "sessions": 131,
+    "convertedSessions": 17
+  },
+  {
+    "date": "2025-08-26",
+    "sessions": 258,
+    "convertedSessions": 17
+  },
+  {
+    "date": "2025-08-27",
+    "sessions": 176,
+    "convertedSessions": 14
+  },
+  {
+    "date": "2025-08-28",
+    "sessions": 197,
+    "convertedSessions": 11
+  },
+  {
+    "date": "2025-08-29",
+    "sessions": 212,
+    "convertedSessions": 11
+  },
+  {
+    "date": "2025-08-30",
+    "sessions": 120,
+    "convertedSessions": 19
+  },
+  {
+    "date": "2025-08-31",
+    "sessions": 168,
+    "convertedSessions": 21
+  },
+  {
+    "date": "2025-09-01",
+    "sessions": 232,
+    "convertedSessions": 9
+  },
+  {
+    "date": "2025-09-02",
+    "sessions": 131,
+    "convertedSessions": 19
+  },
+  {
+    "date": "2025-09-03",
+    "sessions": 188,
+    "convertedSessions": 20
+  },
+  {
+    "date": "2025-09-04",
+    "sessions": 91,
+    "convertedSessions": 4
+  },
+  {
+    "date": "2025-09-05",
+    "sessions": 225,
+    "convertedSessions": 11
+  },
+  {
+    "date": "2025-09-06",
+    "sessions": 169,
+    "convertedSessions": 6
+  },
+  {
+    "date": "2025-09-07",
+    "sessions": 165,
+    "convertedSessions": 14
+  },
+  {
+    "date": "2025-09-08",
+    "sessions": 166,
+    "convertedSessions": 11
+  },
+  {
+    "date": "2025-09-09",
+    "sessions": 256,
+    "convertedSessions": 12
+  },
+  {
+    "date": "2025-09-10",
+    "sessions": 144,
+    "convertedSessions": 4
+  },
+  {
+    "date": "2025-09-11",
+    "sessions": 159,
+    "convertedSessions": 21
+  },
+  {
+    "date": "2025-09-12",
+    "sessions": 251,
+    "convertedSessions": 12
+  },
+  {
+    "date": "2025-09-13",
+    "sessions": 90,
+    "convertedSessions": 3
+  },
+  {
+    "date": "2025-09-14",
+    "sessions": 96,
+    "convertedSessions": 15
+  },
+  {
+    "date": "2025-09-15",
+    "sessions": 233,
+    "convertedSessions": 16
+  },
+  {
+    "date": "2025-09-16",
+    "sessions": 180,
+    "convertedSessions": 12
+  },
+  {
+    "date": "2025-09-17",
+    "sessions": 126,
+    "convertedSessions": 14
+  },
+  {
+    "date": "2025-09-18",
+    "sessions": 185,
+    "convertedSessions": 14
+  },
+  {
+    "date": "2025-09-19",
+    "sessions": 193,
+    "convertedSessions": 7
+  },
+  {
+    "date": "2025-09-20",
+    "sessions": 136,
+    "convertedSessions": 16
+  },
+  {
+    "date": "2025-09-21",
+    "sessions": 178,
+    "convertedSessions": 21
+  },
+  {
+    "date": "2025-09-22",
+    "sessions": 150,
+    "convertedSessions": 10
+  },
+  {
+    "date": "2025-09-23",
+    "sessions": 171,
+    "convertedSessions": 9
+  },
+  {
+    "date": "2025-09-24",
+    "sessions": 161,
+    "convertedSessions": 7
+  },
+  {
+    "date": "2025-09-25",
+    "sessions": 138,
+    "convertedSessions": 21
+  },
+  {
+    "date": "2025-09-26",
+    "sessions": 193,
+    "convertedSessions": 5
+  },
+  {
+    "date": "2025-09-27",
+    "sessions": 151,
+    "convertedSessions": 7
+  },
+  {
+    "date": "2025-09-28",
+    "sessions": 163,
+    "convertedSessions": 15
+  },
+  {
+    "date": "2025-09-29",
+    "sessions": 135,
+    "convertedSessions": 9
+  },
+  {
+    "date": "2025-09-30",
+    "sessions": 210,
+    "convertedSessions": 9
+  },
+  {
+    "date": "2025-10-01",
+    "sessions": 137,
+    "convertedSessions": 14
+  },
+  {
+    "date": "2025-10-02",
+    "sessions": 140,
+    "convertedSessions": 8
+  },
+  {
+    "date": "2025-10-03",
+    "sessions": 230,
+    "convertedSessions": 14
+  },
+  {
+    "date": "2025-10-04",
+    "sessions": 122,
+    "convertedSessions": 19
+  },
+  {
+    "date": "2025-10-05",
+    "sessions": 180,
+    "convertedSessions": 10
+  },
+  {
+    "date": "2025-10-06",
+    "sessions": 158,
+    "convertedSessions": 11
+  },
+  {
+    "date": "2025-10-07",
+    "sessions": 216,
+    "convertedSessions": 9
+  },
+  {
+    "date": "2025-10-08",
+    "sessions": 245,
+    "convertedSessions": 3
+  },
+  {
+    "date": "2025-10-09",
+    "sessions": 102,
+    "convertedSessions": 18
+  },
+  {
+    "date": "2025-10-10",
+    "sessions": 248,
+    "convertedSessions": 16
+  },
+  {
+    "date": "2025-10-11",
+    "sessions": 191,
+    "convertedSessions": 3
+  },
+  {
+    "date": "2025-10-12",
+    "sessions": 146,
+    "convertedSessions": 11
+  },
+  {
+    "date": "2025-10-13",
+    "sessions": 100,
+    "convertedSessions": 11
+  },
+  {
+    "date": "2025-10-14",
+    "sessions": 226,
+    "convertedSessions": 6
+  },
+  {
+    "date": "2025-10-15",
+    "sessions": 102,
+    "convertedSessions": 12
+  },
+  {
+    "date": "2025-10-16",
+    "sessions": 92,
+    "convertedSessions": 12
+  },
+  {
+    "date": "2025-10-17",
+    "sessions": 242,
+    "convertedSessions": 18
+  },
+  {
+    "date": "2025-10-18",
+    "sessions": 232,
+    "convertedSessions": 8
+  },
+  {
+    "date": "2025-10-19",
+    "sessions": 107,
+    "convertedSessions": 9
+  },
+  {
+    "date": "2025-10-20",
+    "sessions": 259,
+    "convertedSessions": 14
+  },
+  {
+    "date": "2025-10-21",
+    "sessions": 154,
+    "convertedSessions": 6
+  },
+  {
+    "date": "2025-10-22",
+    "sessions": 252,
+    "convertedSessions": 11
+  },
+  {
+    "date": "2025-10-23",
+    "sessions": 211,
+    "convertedSessions": 15
+  },
+  {
+    "date": "2025-10-24",
+    "sessions": 255,
+    "convertedSessions": 13
+  },
+  {
+    "date": "2025-10-25",
+    "sessions": 140,
+    "convertedSessions": 11
+  },
+  {
+    "date": "2025-10-26",
+    "sessions": 246,
+    "convertedSessions": 16
+  },
+  {
+    "date": "2025-10-27",
+    "sessions": 182,
+    "convertedSessions": 3
+  },
+  {
+    "date": "2025-10-28",
+    "sessions": 158,
+    "convertedSessions": 4
+  },
+  {
+    "date": "2025-10-29",
+    "sessions": 183,
+    "convertedSessions": 14
+  },
+  {
+    "date": "2025-10-30",
+    "sessions": 236,
+    "convertedSessions": 13
+  },
+  {
+    "date": "2025-10-31",
+    "sessions": 120,
+    "convertedSessions": 15
+  },
+  {
+    "date": "2025-11-01",
+    "sessions": 203,
+    "convertedSessions": 4
+  },
+  {
+    "date": "2025-11-02",
+    "sessions": 125,
+    "convertedSessions": 17
+  },
+  {
+    "date": "2025-11-03",
+    "sessions": 138,
+    "convertedSessions": 15
+  },
+  {
+    "date": "2025-11-04",
+    "sessions": 253,
+    "convertedSessions": 19
+  },
+  {
+    "date": "2025-11-05",
+    "sessions": 250,
+    "convertedSessions": 13
+  },
+  {
+    "date": "2025-11-06",
+    "sessions": 190,
+    "convertedSessions": 4
+  },
+  {
+    "date": "2025-11-07",
+    "sessions": 160,
+    "convertedSessions": 19
+  },
+  {
+    "date": "2025-11-08",
+    "sessions": 127,
+    "convertedSessions": 14
+  },
+  {
+    "date": "2025-11-09",
+    "sessions": 259,
+    "convertedSessions": 21
+  },
+  {
+    "date": "2025-11-10",
+    "sessions": 181,
+    "convertedSessions": 6
+  },
+  {
+    "date": "2025-11-11",
+    "sessions": 191,
+    "convertedSessions": 11
+  },
+  {
+    "date": "2025-11-12",
+    "sessions": 196,
+    "convertedSessions": 19
+  },
+  {
+    "date": "2025-11-13",
+    "sessions": 128,
+    "convertedSessions": 3
+  },
+  {
+    "date": "2025-11-14",
+    "sessions": 208,
+    "convertedSessions": 15
+  },
+  {
+    "date": "2025-11-15",
+    "sessions": 152,
+    "convertedSessions": 18
+  },
+  {
+    "date": "2025-11-16",
+    "sessions": 165,
+    "convertedSessions": 15
+  },
+  {
+    "date": "2025-11-17",
+    "sessions": 242,
+    "convertedSessions": 5
+  },
+  {
+    "date": "2025-11-18",
+    "sessions": 252,
+    "convertedSessions": 16
+  },
+  {
+    "date": "2025-11-19",
+    "sessions": 111,
+    "convertedSessions": 8
+  },
+  {
+    "date": "2025-11-20",
+    "sessions": 108,
+    "convertedSessions": 14
+  },
+  {
+    "date": "2025-11-21",
+    "sessions": 155,
+    "convertedSessions": 21
+  },
+  {
+    "date": "2025-11-22",
+    "sessions": 220,
+    "convertedSessions": 5
+  },
+  {
+    "date": "2025-11-23",
+    "sessions": 180,
+    "convertedSessions": 15
+  },
+  {
+    "date": "2025-11-24",
+    "sessions": 101,
+    "convertedSessions": 21
+  },
+  {
+    "date": "2025-11-25",
+    "sessions": 243,
+    "convertedSessions": 3
+  },
+  {
+    "date": "2025-11-26",
+    "sessions": 209,
+    "convertedSessions": 6
+  },
+  {
+    "date": "2025-11-27",
+    "sessions": 227,
+    "convertedSessions": 18
+  },
+  {
+    "date": "2025-11-28",
+    "sessions": 150,
+    "convertedSessions": 3
+  },
+  {
+    "date": "2025-11-29",
+    "sessions": 226,
+    "convertedSessions": 19
+  },
+  {
+    "date": "2025-11-30",
+    "sessions": 162,
+    "convertedSessions": 9
+  },
+  {
+    "date": "2025-12-01",
+    "sessions": 243,
+    "convertedSessions": 9
+  },
+  {
+    "date": "2025-12-02",
+    "sessions": 110,
+    "convertedSessions": 14
+  },
+  {
+    "date": "2025-12-03",
+    "sessions": 164,
+    "convertedSessions": 3
+  },
+  {
+    "date": "2025-12-04",
+    "sessions": 187,
+    "convertedSessions": 6
+  },
+  {
+    "date": "2025-12-05",
+    "sessions": 120,
+    "convertedSessions": 16
+  },
+  {
+    "date": "2025-12-06",
+    "sessions": 141,
+    "convertedSessions": 15
+  },
+  {
+    "date": "2025-12-07",
+    "sessions": 93,
+    "convertedSessions": 5
+  },
+  {
+    "date": "2025-12-08",
+    "sessions": 96,
+    "convertedSessions": 6
+  },
+  {
+    "date": "2025-12-09",
+    "sessions": 147,
+    "convertedSessions": 13
+  },
+  {
+    "date": "2025-12-10",
+    "sessions": 95,
+    "convertedSessions": 7
+  },
+  {
+    "date": "2025-12-11",
+    "sessions": 226,
+    "convertedSessions": 21
+  },
+  {
+    "date": "2025-12-12",
+    "sessions": 207,
+    "convertedSessions": 18
+  },
+  {
+    "date": "2025-12-13",
+    "sessions": 137,
+    "convertedSessions": 19
+  },
+  {
+    "date": "2025-12-14",
+    "sessions": 243,
+    "convertedSessions": 16
+  },
+  {
+    "date": "2025-12-15",
+    "sessions": 213,
+    "convertedSessions": 6
+  },
+  {
+    "date": "2025-12-16",
+    "sessions": 252,
+    "convertedSessions": 3
+  },
+  {
+    "date": "2025-12-17",
+    "sessions": 198,
+    "convertedSessions": 16
+  },
+  {
+    "date": "2025-12-18",
+    "sessions": 156,
+    "convertedSessions": 21
+  },
+  {
+    "date": "2025-12-19",
+    "sessions": 156,
+    "convertedSessions": 9
+  },
+  {
+    "date": "2025-12-20",
+    "sessions": 202,
+    "convertedSessions": 13
+  },
+  {
+    "date": "2025-12-21",
+    "sessions": 240,
+    "convertedSessions": 13
+  },
+  {
+    "date": "2025-12-22",
+    "sessions": 109,
+    "convertedSessions": 9
+  },
+  {
+    "date": "2025-12-23",
+    "sessions": 237,
+    "convertedSessions": 5
+  },
+  {
+    "date": "2025-12-24",
+    "sessions": 205,
+    "convertedSessions": 17
+  },
+  {
+    "date": "2025-12-25",
+    "sessions": 196,
+    "convertedSessions": 16
+  },
+  {
+    "date": "2025-12-26",
+    "sessions": 123,
+    "convertedSessions": 21
+  },
+  {
+    "date": "2025-12-27",
+    "sessions": 138,
+    "convertedSessions": 18
+  },
+  {
+    "date": "2025-12-28",
+    "sessions": 231,
+    "convertedSessions": 12
+  },
+  {
+    "date": "2025-12-29",
+    "sessions": 113,
+    "convertedSessions": 14
+  },
+  {
+    "date": "2025-12-30",
+    "sessions": 202,
+    "convertedSessions": 3
+  },
+  {
+    "date": "2025-12-31",
+    "sessions": 229,
+    "convertedSessions": 15
+  },
+  {
+    "date": "2026-01-01",
+    "sessions": 137,
+    "convertedSessions": 14
+  },
+  {
+    "date": "2026-01-02",
+    "sessions": 161,
+    "convertedSessions": 14
+  },
+  {
+    "date": "2026-01-03",
+    "sessions": 255,
+    "convertedSessions": 9
+  },
+  {
+    "date": "2026-01-04",
+    "sessions": 133,
+    "convertedSessions": 10
+  },
+  {
+    "date": "2026-01-05",
+    "sessions": 169,
+    "convertedSessions": 21
+  },
+  {
+    "date": "2026-01-06",
+    "sessions": 156,
+    "convertedSessions": 16
+  },
+  {
+    "date": "2026-01-07",
+    "sessions": 110,
+    "convertedSessions": 12
+  },
+  {
+    "date": "2026-01-08",
+    "sessions": 158,
+    "convertedSessions": 10
+  },
+  {
+    "date": "2026-01-09",
+    "sessions": 174,
+    "convertedSessions": 17
+  },
+  {
+    "date": "2026-01-10",
+    "sessions": 155,
+    "convertedSessions": 15
+  },
+  {
+    "date": "2026-01-11",
+    "sessions": 129,
+    "convertedSessions": 11
+  },
+  {
+    "date": "2026-01-12",
+    "sessions": 115,
+    "convertedSessions": 9
+  },
+  {
+    "date": "2026-01-13",
+    "sessions": 245,
+    "convertedSessions": 20
+  },
+  {
+    "date": "2026-01-14",
+    "sessions": 95,
+    "convertedSessions": 10
+  },
+  {
+    "date": "2026-01-15",
+    "sessions": 104,
+    "convertedSessions": 18
+  },
+  {
+    "date": "2026-01-16",
+    "sessions": 204,
+    "convertedSessions": 8
+  },
+  {
+    "date": "2026-01-17",
+    "sessions": 102,
+    "convertedSessions": 13
+  },
+  {
+    "date": "2026-01-18",
+    "sessions": 229,
+    "convertedSessions": 21
+  },
+  {
+    "date": "2026-01-19",
+    "sessions": 225,
+    "convertedSessions": 20
+  },
+  {
+    "date": "2026-01-20",
+    "sessions": 225,
+    "convertedSessions": 13
+  },
+  {
+    "date": "2026-01-21",
+    "sessions": 105,
+    "convertedSessions": 6
+  },
+  {
+    "date": "2026-01-22",
+    "sessions": 126,
+    "convertedSessions": 13
+  },
+  {
+    "date": "2026-01-23",
+    "sessions": 252,
+    "convertedSessions": 18
+  },
+  {
+    "date": "2026-01-24",
+    "sessions": 226,
+    "convertedSessions": 17
+  },
+  {
+    "date": "2026-01-25",
+    "sessions": 220,
+    "convertedSessions": 9
+  },
+  {
+    "date": "2026-01-26",
+    "sessions": 173,
+    "convertedSessions": 3
+  },
+  {
+    "date": "2026-01-27",
+    "sessions": 235,
+    "convertedSessions": 6
+  },
+  {
+    "date": "2026-01-28",
+    "sessions": 129,
+    "convertedSessions": 8
+  },
+  {
+    "date": "2026-01-29",
+    "sessions": 90,
+    "convertedSessions": 17
+  },
+  {
+    "date": "2026-01-30",
+    "sessions": 144,
+    "convertedSessions": 14
+  },
+  {
+    "date": "2026-01-31",
+    "sessions": 218,
+    "convertedSessions": 20
+  },
+  {
+    "date": "2026-02-01",
+    "sessions": 240,
+    "convertedSessions": 19
+  },
+  {
+    "date": "2026-02-02",
+    "sessions": 181,
+    "convertedSessions": 9
+  },
+  {
+    "date": "2026-02-03",
+    "sessions": 236,
+    "convertedSessions": 21
+  },
+  {
+    "date": "2026-02-04",
+    "sessions": 103,
+    "convertedSessions": 7
+  },
+  {
+    "date": "2026-02-05",
+    "sessions": 119,
+    "convertedSessions": 4
+  },
+  {
+    "date": "2026-02-06",
+    "sessions": 126,
+    "convertedSessions": 12
+  },
+  {
+    "date": "2026-02-07",
+    "sessions": 211,
+    "convertedSessions": 18
+  },
+  {
+    "date": "2026-02-08",
+    "sessions": 166,
+    "convertedSessions": 13
+  },
+  {
+    "date": "2026-02-09",
+    "sessions": 142,
+    "convertedSessions": 16
+  },
+  {
+    "date": "2026-02-10",
+    "sessions": 211,
+    "convertedSessions": 5
+  },
+  {
+    "date": "2026-02-11",
+    "sessions": 169,
+    "convertedSessions": 3
+  },
+  {
+    "date": "2026-02-12",
+    "sessions": 135,
+    "convertedSessions": 5
+  },
+  {
+    "date": "2026-02-13",
+    "sessions": 116,
+    "convertedSessions": 20
+  },
+  {
+    "date": "2026-02-14",
+    "sessions": 105,
+    "convertedSessions": 14
+  },
+  {
+    "date": "2026-02-15",
+    "sessions": 157,
+    "convertedSessions": 17
+  },
+  {
+    "date": "2026-02-16",
+    "sessions": 221,
+    "convertedSessions": 10
+  },
+  {
+    "date": "2026-02-17",
+    "sessions": 181,
+    "convertedSessions": 8
+  },
+  {
+    "date": "2026-02-18",
+    "sessions": 101,
+    "convertedSessions": 6
+  },
+  {
+    "date": "2026-02-19",
+    "sessions": 221,
+    "convertedSessions": 6
+  },
+  {
+    "date": "2026-02-20",
+    "sessions": 138,
+    "convertedSessions": 11
+  },
+  {
+    "date": "2026-02-21",
+    "sessions": 150,
+    "convertedSessions": 9
+  },
+  {
+    "date": "2026-02-22",
+    "sessions": 138,
+    "convertedSessions": 18
+  },
+  {
+    "date": "2026-02-23",
+    "sessions": 103,
+    "convertedSessions": 12
+  },
+  {
+    "date": "2026-02-24",
+    "sessions": 144,
+    "convertedSessions": 11
+  },
+  {
+    "date": "2026-02-25",
+    "sessions": 224,
+    "convertedSessions": 12
+  },
+  {
+    "date": "2026-02-26",
+    "sessions": 92,
+    "convertedSessions": 3
+  },
+  {
+    "date": "2026-02-27",
+    "sessions": 192,
+    "convertedSessions": 6
+  },
+  {
+    "date": "2026-02-28",
+    "sessions": 104,
+    "convertedSessions": 16
+  },
+  {
+    "date": "2026-03-01",
+    "sessions": 92,
+    "convertedSessions": 21
+  },
+  {
+    "date": "2026-03-02",
+    "sessions": 193,
+    "convertedSessions": 14
+  },
+  {
+    "date": "2026-03-03",
+    "sessions": 178,
+    "convertedSessions": 4
+  },
+  {
+    "date": "2026-03-04",
+    "sessions": 187,
+    "convertedSessions": 6
+  },
+  {
+    "date": "2026-03-05",
+    "sessions": 222,
+    "convertedSessions": 18
+  },
+  {
+    "date": "2026-03-06",
+    "sessions": 213,
+    "convertedSessions": 17
+  },
+  {
+    "date": "2026-03-07",
+    "sessions": 222,
+    "convertedSessions": 17
+  },
+  {
+    "date": "2026-03-08",
+    "sessions": 171,
+    "convertedSessions": 9
+  },
+  {
+    "date": "2026-03-09",
+    "sessions": 152,
+    "convertedSessions": 6
+  },
+  {
+    "date": "2026-03-10",
+    "sessions": 128,
+    "convertedSessions": 12
+  },
+  {
+    "date": "2026-03-11",
+    "sessions": 104,
+    "convertedSessions": 21
+  },
+  {
+    "date": "2026-03-12",
+    "sessions": 233,
+    "convertedSessions": 10
+  },
+  {
+    "date": "2026-03-13",
+    "sessions": 239,
+    "convertedSessions": 14
+  },
+  {
+    "date": "2026-03-14",
+    "sessions": 103,
+    "convertedSessions": 18
+  },
+  {
+    "date": "2026-03-15",
+    "sessions": 207,
+    "convertedSessions": 19
+  },
+  {
+    "date": "2026-03-16",
+    "sessions": 246,
+    "convertedSessions": 16
+  },
+  {
+    "date": "2026-03-17",
+    "sessions": 252,
+    "convertedSessions": 21
+  },
+  {
+    "date": "2026-03-18",
+    "sessions": 215,
+    "convertedSessions": 8
+  },
+  {
+    "date": "2026-03-19",
+    "sessions": 177,
+    "convertedSessions": 19
+  },
+  {
+    "date": "2026-03-20",
+    "sessions": 248,
+    "convertedSessions": 7
+  },
+  {
+    "date": "2026-03-21",
+    "sessions": 113,
+    "convertedSessions": 9
+  },
+  {
+    "date": "2026-03-22",
+    "sessions": 131,
+    "convertedSessions": 4
+  },
+  {
+    "date": "2026-03-23",
+    "sessions": 91,
+    "convertedSessions": 13
+  },
+  {
+    "date": "2026-03-24",
+    "sessions": 244,
+    "convertedSessions": 14
+  },
+  {
+    "date": "2026-03-25",
+    "sessions": 119,
+    "convertedSessions": 9
+  },
+  {
+    "date": "2026-03-26",
+    "sessions": 97,
+    "convertedSessions": 6
+  },
+  {
+    "date": "2026-03-27",
+    "sessions": 173,
+    "convertedSessions": 21
+  },
+  {
+    "date": "2026-03-28",
+    "sessions": 98,
+    "convertedSessions": 7
+  },
+  {
+    "date": "2026-03-29",
+    "sessions": 138,
+    "convertedSessions": 12
+  },
+  {
+    "date": "2026-03-30",
+    "sessions": 135,
+    "convertedSessions": 8
+  },
+  {
+    "date": "2026-03-31",
+    "sessions": 217,
+    "convertedSessions": 7
+  },
+  {
+    "date": "2026-04-01",
+    "sessions": 91,
+    "convertedSessions": 21
+  },
+  {
+    "date": "2026-04-02",
+    "sessions": 134,
+    "convertedSessions": 5
+  },
+  {
+    "date": "2026-04-03",
+    "sessions": 148,
+    "convertedSessions": 5
+  },
+  {
+    "date": "2026-04-04",
+    "sessions": 256,
+    "convertedSessions": 9
+  },
+  {
+    "date": "2026-04-05",
+    "sessions": 139,
+    "convertedSessions": 13
+  },
+  {
+    "date": "2026-04-06",
+    "sessions": 142,
+    "convertedSessions": 4
+  },
+  {
+    "date": "2026-04-07",
+    "sessions": 259,
+    "convertedSessions": 17
+  },
+  {
+    "date": "2026-04-08",
+    "sessions": 247,
+    "convertedSessions": 7
+  },
+  {
+    "date": "2026-04-09",
+    "sessions": 176,
+    "convertedSessions": 20
+  },
+  {
+    "date": "2026-04-10",
+    "sessions": 243,
+    "convertedSessions": 3
+  },
+  {
+    "date": "2026-04-11",
+    "sessions": 153,
+    "convertedSessions": 6
+  },
+  {
+    "date": "2026-04-12",
+    "sessions": 120,
+    "convertedSessions": 6
+  },
+  {
+    "date": "2026-04-13",
+    "sessions": 129,
+    "convertedSessions": 9
+  },
+  {
+    "date": "2026-04-14",
+    "sessions": 139,
+    "convertedSessions": 21
+  },
+  {
+    "date": "2026-04-15",
+    "sessions": 133,
+    "convertedSessions": 21
+  },
+  {
+    "date": "2026-04-16",
+    "sessions": 186,
+    "convertedSessions": 13
+  },
+  {
+    "date": "2026-04-17",
+    "sessions": 151,
+    "convertedSessions": 12
+  },
+  {
+    "date": "2026-04-18",
+    "sessions": 237,
+    "convertedSessions": 19
+  },
+  {
+    "date": "2026-04-19",
+    "sessions": 153,
+    "convertedSessions": 19
+  },
+  {
+    "date": "2026-04-20",
+    "sessions": 192,
+    "convertedSessions": 13
+  },
+  {
+    "date": "2026-04-21",
+    "sessions": 178,
+    "convertedSessions": 10
+  },
+  {
+    "date": "2026-04-22",
+    "sessions": 253,
+    "convertedSessions": 5
+  },
+  {
+    "date": "2026-04-23",
+    "sessions": 152,
+    "convertedSessions": 3
+  },
+  {
+    "date": "2026-04-24",
+    "sessions": 188,
+    "convertedSessions": 4
+  },
+  {
+    "date": "2026-04-25",
+    "sessions": 104,
+    "convertedSessions": 16
+  },
+  {
+    "date": "2026-04-26",
+    "sessions": 150,
+    "convertedSessions": 16
+  },
+  {
+    "date": "2026-04-27",
+    "sessions": 102,
+    "convertedSessions": 17
+  },
+  {
+    "date": "2026-04-28",
+    "sessions": 143,
+    "convertedSessions": 6
+  },
+  {
+    "date": "2026-04-29",
+    "sessions": 202,
+    "convertedSessions": 9
+  },
+  {
+    "date": "2026-04-30",
+    "sessions": 119,
+    "convertedSessions": 18
+  },
+  {
+    "date": "2026-05-01",
+    "sessions": 205,
+    "convertedSessions": 12
+  },
+  {
+    "date": "2026-05-02",
+    "sessions": 165,
+    "convertedSessions": 21
+  },
+  {
+    "date": "2026-05-03",
+    "sessions": 153,
+    "convertedSessions": 7
+  },
+  {
+    "date": "2026-05-04",
+    "sessions": 114,
+    "convertedSessions": 14
+  },
+  {
+    "date": "2026-05-05",
+    "sessions": 170,
+    "convertedSessions": 3
+  },
+  {
+    "date": "2026-05-06",
+    "sessions": 219,
+    "convertedSessions": 14
+  },
+  {
+    "date": "2026-05-07",
+    "sessions": 215,
+    "convertedSessions": 19
+  },
+  {
+    "date": "2026-05-08",
+    "sessions": 197,
+    "convertedSessions": 20
+  },
+  {
+    "date": "2026-05-09",
+    "sessions": 140,
+    "convertedSessions": 9
+  },
+  {
+    "date": "2026-05-10",
+    "sessions": 216,
+    "convertedSessions": 4
+  },
+  {
+    "date": "2026-05-11",
+    "sessions": 146,
+    "convertedSessions": 6
+  },
+  {
+    "date": "2026-05-12",
+    "sessions": 174,
+    "convertedSessions": 20
+  },
+  {
+    "date": "2026-05-13",
+    "sessions": 106,
+    "convertedSessions": 7
+  },
+  {
+    "date": "2026-05-14",
+    "sessions": 253,
+    "convertedSessions": 15
+  },
+  {
+    "date": "2026-05-15",
+    "sessions": 106,
+    "convertedSessions": 5
+  },
+  {
+    "date": "2026-05-16",
+    "sessions": 246,
+    "convertedSessions": 11
+  },
+  {
+    "date": "2026-05-17",
+    "sessions": 163,
+    "convertedSessions": 6
+  },
+  {
+    "date": "2026-05-18",
+    "sessions": 117,
+    "convertedSessions": 19
+  },
+  {
+    "date": "2026-05-19",
+    "sessions": 145,
+    "convertedSessions": 3
+  },
+  {
+    "date": "2026-05-20",
+    "sessions": 103,
+    "convertedSessions": 8
+  },
+  {
+    "date": "2026-05-21",
+    "sessions": 102,
+    "convertedSessions": 9
+  },
+  {
+    "date": "2026-05-22",
+    "sessions": 242,
+    "convertedSessions": 21
+  },
+  {
+    "date": "2026-05-23",
+    "sessions": 111,
+    "convertedSessions": 13
+  },
+  {
+    "date": "2026-05-24",
+    "sessions": 212,
+    "convertedSessions": 16
+  },
+  {
+    "date": "2026-05-25",
+    "sessions": 187,
+    "convertedSessions": 17
+  },
+  {
+    "date": "2026-05-26",
+    "sessions": 131,
+    "convertedSessions": 17
+  },
+  {
+    "date": "2026-05-27",
+    "sessions": 192,
+    "convertedSessions": 8
+  },
+  {
+    "date": "2026-05-28",
+    "sessions": 116,
+    "convertedSessions": 20
+  },
+  {
+    "date": "2026-05-29",
+    "sessions": 170,
+    "convertedSessions": 21
+  },
+  {
+    "date": "2026-05-30",
+    "sessions": 165,
+    "convertedSessions": 17
+  },
+  {
+    "date": "2026-05-31",
+    "sessions": 244,
+    "convertedSessions": 8
+  },
+  {
+    "date": "2026-06-01",
+    "sessions": 192,
+    "convertedSessions": 12
+  },
+  {
+    "date": "2026-06-02",
+    "sessions": 205,
+    "convertedSessions": 6
+  },
+  {
+    "date": "2026-06-03",
+    "sessions": 110,
+    "convertedSessions": 8
+  },
+  {
+    "date": "2026-06-04",
+    "sessions": 194,
+    "convertedSessions": 15
+  },
+  {
+    "date": "2026-06-05",
+    "sessions": 204,
+    "convertedSessions": 16
+  },
+  {
+    "date": "2026-06-06",
+    "sessions": 90,
+    "convertedSessions": 6
+  },
+  {
+    "date": "2026-06-07",
+    "sessions": 126,
+    "convertedSessions": 21
+  },
+  {
+    "date": "2026-06-08",
+    "sessions": 124,
+    "convertedSessions": 6
+  },
+  {
+    "date": "2026-06-09",
+    "sessions": 133,
+    "convertedSessions": 17
+  },
+  {
+    "date": "2026-06-10",
+    "sessions": 97,
+    "convertedSessions": 20
+  },
+  {
+    "date": "2026-06-11",
+    "sessions": 110,
+    "convertedSessions": 8
+  },
+  {
+    "date": "2026-06-12",
+    "sessions": 119,
+    "convertedSessions": 20
+  },
+  {
+    "date": "2026-06-13",
+    "sessions": 234,
+    "convertedSessions": 18
+  },
+  {
+    "date": "2026-06-14",
+    "sessions": 179,
+    "convertedSessions": 4
+  },
+  {
+    "date": "2026-06-15",
+    "sessions": 221,
+    "convertedSessions": 21
+  },
+  {
+    "date": "2026-06-16",
+    "sessions": 111,
+    "convertedSessions": 7
+  },
+  {
+    "date": "2026-06-17",
+    "sessions": 117,
+    "convertedSessions": 16
+  },
+  {
+    "date": "2026-06-18",
+    "sessions": 235,
+    "convertedSessions": 5
+  },
+  {
+    "date": "2026-06-19",
+    "sessions": 203,
+    "convertedSessions": 8
+  },
+  {
+    "date": "2026-06-20",
+    "sessions": 244,
+    "convertedSessions": 3
+  },
+  {
+    "date": "2026-06-21",
+    "sessions": 175,
+    "convertedSessions": 21
+  },
+  {
+    "date": "2026-06-22",
+    "sessions": 148,
+    "convertedSessions": 16
+  },
+  {
+    "date": "2026-06-23",
+    "sessions": 139,
+    "convertedSessions": 5
+  },
+  {
+    "date": "2026-06-24",
+    "sessions": 227,
+    "convertedSessions": 8
+  },
+  {
+    "date": "2026-06-25",
+    "sessions": 176,
+    "convertedSessions": 15
+  },
+  {
+    "date": "2026-06-26",
+    "sessions": 120,
+    "convertedSessions": 20
+  },
+  {
+    "date": "2026-06-27",
+    "sessions": 247,
+    "convertedSessions": 16
+  },
+  {
+    "date": "2026-06-28",
+    "sessions": 164,
+    "convertedSessions": 9
+  },
+  {
+    "date": "2026-06-29",
+    "sessions": 255,
+    "convertedSessions": 10
+  },
+  {
+    "date": "2026-06-30",
+    "sessions": 248,
+    "convertedSessions": 20
+  },
+  {
+    "date": "2026-07-01",
+    "sessions": 256,
+    "convertedSessions": 9
+  },
+  {
+    "date": "2026-07-02",
+    "sessions": 105,
+    "convertedSessions": 9
+  },
+  {
+    "date": "2026-07-03",
+    "sessions": 185,
+    "convertedSessions": 16
+  },
+  {
+    "date": "2026-07-04",
+    "sessions": 235,
+    "convertedSessions": 15
+  },
+  {
+    "date": "2026-07-05",
+    "sessions": 142,
+    "convertedSessions": 17
+  },
+  {
+    "date": "2026-07-06",
+    "sessions": 222,
+    "convertedSessions": 9
+  },
+  {
+    "date": "2026-07-07",
+    "sessions": 115,
+    "convertedSessions": 6
+  },
+  {
+    "date": "2026-07-08",
+    "sessions": 104,
+    "convertedSessions": 4
+  },
+  {
+    "date": "2026-07-09",
+    "sessions": 137,
+    "convertedSessions": 6
+  },
+  {
+    "date": "2026-07-10",
+    "sessions": 233,
+    "convertedSessions": 21
+  },
+  {
+    "date": "2026-07-11",
+    "sessions": 201,
+    "convertedSessions": 4
+  },
+  {
+    "date": "2026-07-12",
+    "sessions": 125,
+    "convertedSessions": 14
+  },
+  {
+    "date": "2026-07-13",
+    "sessions": 196,
+    "convertedSessions": 9
+  },
+  {
+    "date": "2026-07-14",
+    "sessions": 219,
+    "convertedSessions": 7
+  },
+  {
+    "date": "2026-07-15",
+    "sessions": 167,
+    "convertedSessions": 16
+  },
+  {
+    "date": "2026-07-16",
+    "sessions": 139,
+    "convertedSessions": 3
+  },
+  {
+    "date": "2026-07-17",
+    "sessions": 252,
+    "convertedSessions": 14
+  },
+  {
+    "date": "2026-07-18",
+    "sessions": 137,
+    "convertedSessions": 17
+  },
+  {
+    "date": "2026-07-19",
+    "sessions": 201,
+    "convertedSessions": 20
+  },
+  {
+    "date": "2026-07-20",
+    "sessions": 154,
+    "convertedSessions": 20
+  },
+  {
+    "date": "2026-07-21",
+    "sessions": 143,
+    "convertedSessions": 8
+  },
+  {
+    "date": "2026-07-22",
+    "sessions": 221,
+    "convertedSessions": 11
+  },
+  {
+    "date": "2026-07-23",
+    "sessions": 152,
+    "convertedSessions": 10
+  },
+  {
+    "date": "2026-07-24",
+    "sessions": 98,
+    "convertedSessions": 10
+  },
+  {
+    "date": "2026-07-25",
+    "sessions": 125,
+    "convertedSessions": 7
+  },
+  {
+    "date": "2026-07-26",
+    "sessions": 188,
+    "convertedSessions": 13
+  },
+  {
+    "date": "2026-07-27",
+    "sessions": 197,
+    "convertedSessions": 19
+  },
+  {
+    "date": "2026-07-28",
+    "sessions": 172,
+    "convertedSessions": 8
+  },
+  {
+    "date": "2026-07-29",
+    "sessions": 227,
+    "convertedSessions": 19
+  },
+  {
+    "date": "2026-07-30",
+    "sessions": 231,
+    "convertedSessions": 9
+  },
+  {
+    "date": "2026-07-31",
+    "sessions": 139,
+    "convertedSessions": 13
+  },
+  {
+    "date": "2026-08-01",
+    "sessions": 189,
+    "convertedSessions": 21
+  },
+  {
+    "date": "2026-08-02",
+    "sessions": 203,
+    "convertedSessions": 10
+  },
+  {
+    "date": "2026-08-03",
+    "sessions": 224,
+    "convertedSessions": 17
+  },
+  {
+    "date": "2026-08-04",
+    "sessions": 143,
+    "convertedSessions": 4
+  },
+  {
+    "date": "2026-08-05",
+    "sessions": 197,
+    "convertedSessions": 3
+  },
+  {
+    "date": "2026-08-06",
+    "sessions": 164,
+    "convertedSessions": 18
+  },
+  {
+    "date": "2026-08-07",
+    "sessions": 232,
+    "convertedSessions": 13
+  },
+  {
+    "date": "2026-08-08",
+    "sessions": 146,
+    "convertedSessions": 10
+  },
+  {
+    "date": "2026-08-09",
+    "sessions": 157,
+    "convertedSessions": 10
+  },
+  {
+    "date": "2026-08-10",
+    "sessions": 199,
+    "convertedSessions": 19
+  },
+  {
+    "date": "2026-08-11",
+    "sessions": 151,
+    "convertedSessions": 3
+  },
+  {
+    "date": "2026-08-12",
+    "sessions": 150,
+    "convertedSessions": 8
+  },
+  {
+    "date": "2026-08-13",
+    "sessions": 186,
+    "convertedSessions": 13
+  },
+  {
+    "date": "2026-08-14",
+    "sessions": 169,
+    "convertedSessions": 3
+  },
+  {
+    "date": "2026-08-15",
+    "sessions": 203,
+    "convertedSessions": 14
+  },
+  {
+    "date": "2026-08-16",
+    "sessions": 97,
+    "convertedSessions": 12
+  },
+  {
+    "date": "2026-08-17",
+    "sessions": 139,
+    "convertedSessions": 16
+  },
+  {
+    "date": "2026-08-18",
+    "sessions": 157,
+    "convertedSessions": 6
+  },
+  {
+    "date": "2026-08-19",
+    "sessions": 157,
+    "convertedSessions": 14
+  },
+  {
+    "date": "2026-08-20",
+    "sessions": 165,
+    "convertedSessions": 17
+  },
+  {
+    "date": "2026-08-21",
+    "sessions": 110,
+    "convertedSessions": 7
+  },
+  {
+    "date": "2026-08-22",
+    "sessions": 250,
+    "convertedSessions": 8
+  },
+  {
+    "date": "2026-08-23",
+    "sessions": 248,
+    "convertedSessions": 13
+  },
+  {
+    "date": "2026-08-24",
+    "sessions": 102,
+    "convertedSessions": 9
+  },
+  {
+    "date": "2026-08-25",
+    "sessions": 112,
+    "convertedSessions": 7
+  },
+  {
+    "date": "2026-08-26",
+    "sessions": 160,
+    "convertedSessions": 14
+  },
+  {
+    "date": "2026-08-27",
+    "sessions": 231,
+    "convertedSessions": 10
+  },
+  {
+    "date": "2026-08-28",
+    "sessions": 258,
+    "convertedSessions": 7
+  },
+  {
+    "date": "2026-08-29",
+    "sessions": 133,
+    "convertedSessions": 9
+  },
+  {
+    "date": "2026-08-30",
+    "sessions": 253,
+    "convertedSessions": 21
+  },
+  {
+    "date": "2026-08-31",
+    "sessions": 250,
+    "convertedSessions": 15
+  },
+  {
+    "date": "2026-09-01",
+    "sessions": 247,
+    "convertedSessions": 14
+  },
+  {
+    "date": "2026-09-02",
+    "sessions": 135,
+    "convertedSessions": 19
+  },
+  {
+    "date": "2026-09-03",
+    "sessions": 166,
+    "convertedSessions": 12
+  },
+  {
+    "date": "2026-09-04",
+    "sessions": 232,
+    "convertedSessions": 9
+  },
+  {
+    "date": "2026-09-05",
+    "sessions": 221,
+    "convertedSessions": 13
+  },
+  {
+    "date": "2026-09-06",
+    "sessions": 110,
+    "convertedSessions": 10
+  },
+  {
+    "date": "2026-09-07",
+    "sessions": 145,
+    "convertedSessions": 10
+  },
+  {
+    "date": "2026-09-08",
+    "sessions": 97,
+    "convertedSessions": 14
+  },
+  {
+    "date": "2026-09-09",
+    "sessions": 144,
+    "convertedSessions": 15
+  },
+  {
+    "date": "2026-09-10",
+    "sessions": 116,
+    "convertedSessions": 21
+  },
+  {
+    "date": "2026-09-11",
+    "sessions": 223,
+    "convertedSessions": 14
+  },
+  {
+    "date": "2026-09-12",
+    "sessions": 166,
+    "convertedSessions": 20
+  },
+  {
+    "date": "2026-09-13",
+    "sessions": 237,
+    "convertedSessions": 17
+  },
+  {
+    "date": "2026-09-14",
+    "sessions": 188,
+    "convertedSessions": 8
+  },
+  {
+    "date": "2026-09-15",
+    "sessions": 252,
+    "convertedSessions": 14
+  },
+  {
+    "date": "2026-09-16",
+    "sessions": 148,
+    "convertedSessions": 18
+  },
+  {
+    "date": "2026-09-17",
+    "sessions": 208,
+    "convertedSessions": 7
+  },
+  {
+    "date": "2026-09-18",
+    "sessions": 146,
+    "convertedSessions": 16
+  },
+  {
+    "date": "2026-09-19",
+    "sessions": 229,
+    "convertedSessions": 17
+  },
+  {
+    "date": "2026-09-20",
+    "sessions": 109,
+    "convertedSessions": 10
+  },
+  {
+    "date": "2026-09-21",
+    "sessions": 169,
+    "convertedSessions": 3
+  },
+  {
+    "date": "2026-09-22",
+    "sessions": 188,
+    "convertedSessions": 20
+  },
+  {
+    "date": "2026-09-23",
+    "sessions": 113,
+    "convertedSessions": 17
+  },
+  {
+    "date": "2026-09-24",
+    "sessions": 234,
+    "convertedSessions": 8
+  },
+  {
+    "date": "2026-09-25",
+    "sessions": 172,
+    "convertedSessions": 5
+  },
+  {
+    "date": "2026-09-26",
+    "sessions": 187,
+    "convertedSessions": 7
+  },
+  {
+    "date": "2026-09-27",
+    "sessions": 173,
+    "convertedSessions": 15
+  },
+  {
+    "date": "2026-09-28",
+    "sessions": 219,
+    "convertedSessions": 5
+  },
+  {
+    "date": "2026-09-29",
+    "sessions": 125,
+    "convertedSessions": 19
+  },
+  {
+    "date": "2026-09-30",
+    "sessions": 230,
+    "convertedSessions": 7
+  },
+  {
+    "date": "2026-10-01",
+    "sessions": 207,
+    "convertedSessions": 5
+  },
+  {
+    "date": "2026-10-02",
+    "sessions": 115,
+    "convertedSessions": 7
+  },
+  {
+    "date": "2026-10-03",
+    "sessions": 140,
+    "convertedSessions": 9
+  },
+  {
+    "date": "2026-10-04",
+    "sessions": 231,
+    "convertedSessions": 20
+  },
+  {
+    "date": "2026-10-05",
+    "sessions": 127,
+    "convertedSessions": 7
+  },
+  {
+    "date": "2026-10-06",
+    "sessions": 232,
+    "convertedSessions": 20
+  },
+  {
+    "date": "2026-10-07",
+    "sessions": 232,
+    "convertedSessions": 13
+  },
+  {
+    "date": "2026-10-08",
+    "sessions": 220,
+    "convertedSessions": 10
+  },
+  {
+    "date": "2026-10-09",
+    "sessions": 122,
+    "convertedSessions": 14
+  },
+  {
+    "date": "2026-10-10",
+    "sessions": 148,
+    "convertedSessions": 5
+  },
+  {
+    "date": "2026-10-11",
+    "sessions": 103,
+    "convertedSessions": 5
+  },
+  {
+    "date": "2026-10-12",
+    "sessions": 95,
+    "convertedSessions": 19
+  },
+  {
+    "date": "2026-10-13",
+    "sessions": 94,
+    "convertedSessions": 4
+  },
+  {
+    "date": "2026-10-14",
+    "sessions": 219,
+    "convertedSessions": 8
+  },
+  {
+    "date": "2026-10-15",
+    "sessions": 242,
+    "convertedSessions": 18
+  },
+  {
+    "date": "2026-10-16",
+    "sessions": 135,
+    "convertedSessions": 9
+  },
+  {
+    "date": "2026-10-17",
+    "sessions": 207,
+    "convertedSessions": 12
+  },
+  {
+    "date": "2026-10-18",
+    "sessions": 103,
+    "convertedSessions": 21
+  },
+  {
+    "date": "2026-10-19",
+    "sessions": 205,
+    "convertedSessions": 13
+  },
+  {
+    "date": "2026-10-20",
+    "sessions": 169,
+    "convertedSessions": 12
+  },
+  {
+    "date": "2026-10-21",
+    "sessions": 150,
+    "convertedSessions": 20
+  },
+  {
+    "date": "2026-10-22",
+    "sessions": 193,
+    "convertedSessions": 13
+  },
+  {
+    "date": "2026-10-23",
+    "sessions": 182,
+    "convertedSessions": 8
+  },
+  {
+    "date": "2026-10-24",
+    "sessions": 125,
+    "convertedSessions": 11
+  },
+  {
+    "date": "2026-10-25",
+    "sessions": 114,
+    "convertedSessions": 19
+  },
+  {
+    "date": "2026-10-26",
+    "sessions": 228,
+    "convertedSessions": 14
+  },
+  {
+    "date": "2026-10-27",
+    "sessions": 193,
+    "convertedSessions": 9
+  },
+  {
+    "date": "2026-10-28",
+    "sessions": 133,
+    "convertedSessions": 8
+  },
+  {
+    "date": "2026-10-29",
+    "sessions": 178,
+    "convertedSessions": 7
+  },
+  {
+    "date": "2026-10-30",
+    "sessions": 220,
+    "convertedSessions": 6
+  },
+  {
+    "date": "2026-10-31",
+    "sessions": 227,
+    "convertedSessions": 5
+  },
+  {
+    "date": "2026-11-01",
+    "sessions": 95,
+    "convertedSessions": 15
+  },
+  {
+    "date": "2026-11-02",
+    "sessions": 247,
+    "convertedSessions": 8
+  },
+  {
+    "date": "2026-11-03",
+    "sessions": 167,
+    "convertedSessions": 3
+  },
+  {
+    "date": "2026-11-04",
+    "sessions": 136,
+    "convertedSessions": 3
+  },
+  {
+    "date": "2026-11-05",
+    "sessions": 250,
+    "convertedSessions": 9
+  },
+  {
+    "date": "2026-11-06",
+    "sessions": 152,
+    "convertedSessions": 14
+  },
+  {
+    "date": "2026-11-07",
+    "sessions": 249,
+    "convertedSessions": 8
+  },
+  {
+    "date": "2026-11-08",
+    "sessions": 178,
+    "convertedSessions": 10
+  },
+  {
+    "date": "2026-11-09",
+    "sessions": 255,
+    "convertedSessions": 21
+  },
+  {
+    "date": "2026-11-10",
+    "sessions": 103,
+    "convertedSessions": 16
+  }
+]

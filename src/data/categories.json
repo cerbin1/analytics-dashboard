@@ -1,0 +1,27 @@
+[
+  {
+    "id": "cat-software",
+    "name": "Software",
+    "color": "#635bff"
+  },
+  {
+    "id": "cat-consulting",
+    "name": "Consulting",
+    "color": "#29a383"
+  },
+  {
+    "id": "cat-hardware",
+    "name": "Hardware",
+    "color": "#f2a84b"
+  },
+  {
+    "id": "cat-training",
+    "name": "Training",
+    "color": "#eb6f92"
+  },
+  {
+    "id": "cat-support",
+    "name": "Support",
+    "color": "#55a6d9"
+  }
+]

@@ -1,3 +1,11 @@
 import { defineConfig } from "vite";
 import react from "@vitejs/plugin-react";
-export default defineConfig({ base: "./", plugins: [react()] });
+export default defineConfig({
+  base: "./",
+  plugins: [react()],
+  build: {
+    outDir:
+      "~/domains/portfolio.skr.smallhost.pl/public_html/analytics-dashboard",
+    emptyOutDir: true,
+  },
+});

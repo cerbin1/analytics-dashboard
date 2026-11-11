@@ -5,7 +5,7 @@ export default defineConfig({
   plugins: [react()],
   build: {
     outDir:
-      "~/domains/portfolio.skr.smallhost.pl/public_html/analytics-dashboard",
+      "/home/skr/domains/portfolio.skr.smallhost.pl/public_html/analytics-dashboard",
     emptyOutDir: true,
   },
 });
